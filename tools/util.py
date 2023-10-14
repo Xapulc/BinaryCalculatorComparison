@@ -6,7 +6,7 @@ from pathlib import Path
 
 def save_file(data, file_name, dir_list=None):
     if dir_list is None:
-        dir_path = "."
+        dir_path = "../../../PycharmProjects/BinaryCalculatorComparison_/tools"
     else:
         dir_path = os.path.join(*dir_list)
         Path(dir_path).mkdir(parents=True, exist_ok=True)
@@ -17,7 +17,7 @@ def save_file(data, file_name, dir_list=None):
 
 def load_file(file_name, dir_list=None):
     if dir_list is None:
-        dir_path = "."
+        dir_path = "../../../PycharmProjects/BinaryCalculatorComparison_/tools"
     else:
         dir_path = os.path.join(*dir_list)
 
