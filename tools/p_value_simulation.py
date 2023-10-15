@@ -112,7 +112,7 @@ class PValueSimulation(object):
                                       if custom_test_name_list is None
                                          or test["name"] in custom_test_name_list]
             if p_value_data is not None and test_speed is not None and not rewrite_result:
-                test_name_list = list(filter(lambda test_name: test_name not in p_value_data.index.unique(),
+                test_name_list = list(filter(lambda test_name: test_name not in p_value_data.index.get_level_values("name").unique(),
                                              default_test_name_list))
             else:
                 test_name_list = default_test_name_list
@@ -157,8 +157,6 @@ class PValueSimulation(object):
                         .set_index(["name"]) \
                         [["speed"]]
 
-                    print(f"{mean_time:.3f} ms per sample")
-
                     if p_value_data is None or test_speed is None:
                         p_value_data = test_result_data
                         test_speed = test_speed_data
@@ -187,7 +185,7 @@ class PValueSimulation(object):
                                       if custom_test_name_list is None
                                       or test["name"] in custom_test_name_list]
             if p_value_data is not None and test_speed is not None:
-                test_name_list = list(filter(lambda test_name: test_name not in p_value_data.index.unique(),
+                test_name_list = list(filter(lambda test_name: test_name in p_value_data.index.get_level_values("name").unique(),
                                              default_test_name_list))
             else:
                 test_name_list = default_test_name_list
@@ -203,17 +201,19 @@ class PValueSimulation(object):
                 p_value_data = p_value_data.pivot_table(index="iter_num", columns="name", values="p_value")
                 for test_name in test_name_list:
                     p_value_list = p_value_data[test_name]
+                    p_value_list = np.where(p_value_list >= max_alpha, max_alpha, p_value_list)
                     p_value_ecdf = ECDF(p_value_list)
 
-                    fig.add_trace(go.Scatter(x=p_value_ecdf.x[p_value_ecdf.x <= max_alpha],
-                                             y=p_value_ecdf.y[p_value_ecdf.x <= max_alpha],
+                    fig.add_trace(go.Scatter(x=p_value_ecdf.x,
+                                             y=p_value_ecdf.y,
                                              name=test_name,
                                              mode="lines"))
 
                 fig.update_layout(title=sample_name,
                                   xaxis_title="alpha",
                                   yaxis_title="ECDF p-value",
-                                  legend_title="Criteria")
+                                  legend_title="Criteria",
+                                  yaxis_range=[0, min(1.0, 1.5 * max_alpha)])
                 fig.show()
 
                 if corr_matrix:
