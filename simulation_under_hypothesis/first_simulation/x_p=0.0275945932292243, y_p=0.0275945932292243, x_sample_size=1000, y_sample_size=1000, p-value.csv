@@ -1,0 +1,3501 @@
+name,iter_num,p_value
+Barnard’s exact test,0,0.12880188409326784
+Barnard’s exact test,1,0.27160066802646265
+Barnard’s exact test,2,0.3452671251402033
+Barnard’s exact test,3,0.4251002678943187
+Barnard’s exact test,4,0.5249395561675873
+Barnard’s exact test,5,0.635733987772441
+Barnard’s exact test,6,0.1465780681480076
+Barnard’s exact test,7,0.9107641508301783
+Barnard’s exact test,8,0.5399154910231533
+Barnard’s exact test,9,0.6825369672245201
+Barnard’s exact test,10,0.5840481365569274
+Barnard’s exact test,11,0.6407094272518256
+Barnard’s exact test,12,0.4688031548112029
+Barnard’s exact test,13,0.4251002678943187
+Barnard’s exact test,14,0.6195858821151707
+Barnard’s exact test,15,1.0
+Barnard’s exact test,16,0.776195863750498
+Barnard’s exact test,17,0.7300419312697979
+Barnard’s exact test,18,0.7899626814275271
+Barnard’s exact test,19,0.49503323581333314
+Barnard’s exact test,20,0.014963751591105752
+Barnard’s exact test,21,0.6709544855564139
+Barnard’s exact test,22,0.08753141565193956
+Barnard’s exact test,23,0.08508522279082144
+Barnard’s exact test,24,0.23319767312610398
+Barnard’s exact test,25,0.22917086271434853
+Barnard’s exact test,26,0.7981986860391768
+Barnard’s exact test,27,0.1589000536719638
+Barnard’s exact test,28,0.5840481365569274
+Barnard’s exact test,29,0.5761610623948511
+Barnard’s exact test,30,0.2487098985702006
+Barnard’s exact test,31,1.0
+Barnard’s exact test,32,0.2050690102432212
+Barnard’s exact test,33,0.7377159097329898
+Barnard’s exact test,34,0.9156953243212048
+Barnard’s exact test,35,0.733962600576616
+Barnard’s exact test,36,0.16366307573554167
+Barnard’s exact test,37,0.7971528856180751
+Barnard’s exact test,38,0.5999064063819666
+Barnard’s exact test,39,0.17491245844958458
+Barnard’s exact test,40,0.14031475429731385
+Barnard’s exact test,41,0.15032849641598134
+Barnard’s exact test,42,0.6555578007469295
+Barnard’s exact test,43,0.5139735938300084
+Barnard’s exact test,44,0.7712977979146264
+Barnard’s exact test,45,0.7899626814275271
+Barnard’s exact test,46,0.5761610623948511
+Barnard’s exact test,47,0.05202217383487617
+Barnard’s exact test,48,0.9002549595527188
+Barnard’s exact test,49,1.0
+Barnard’s exact test,50,0.07008093164815599
+Barnard’s exact test,51,0.35629638760634696
+Barnard’s exact test,52,1.0
+Barnard’s exact test,53,0.25674013634132464
+Barnard’s exact test,54,0.5298453654410694
+Barnard’s exact test,55,0.5840481365569274
+Barnard’s exact test,56,0.36098961838314286
+Barnard’s exact test,57,0.32023805551556084
+Barnard’s exact test,58,0.3985434342027815
+Barnard’s exact test,59,0.9156953243212048
+Barnard’s exact test,60,0.2675189217651234
+Barnard’s exact test,61,0.18268333496481048
+Barnard’s exact test,62,0.2616887748033011
+Barnard’s exact test,63,0.38115669139580044
+Barnard’s exact test,64,0.016708318301380497
+Barnard’s exact test,65,0.5178144288390657
+Barnard’s exact test,66,0.11891992408608891
+Barnard’s exact test,67,0.19411906849131338
+Barnard’s exact test,68,0.9107641508301783
+Barnard’s exact test,69,0.4338555020459431
+Barnard’s exact test,70,0.6252420794689862
+Barnard’s exact test,71,0.6070563417981903
+Barnard’s exact test,72,0.3452671251402033
+Barnard’s exact test,73,0.6252420794689862
+Barnard’s exact test,74,0.9125190474315623
+Barnard’s exact test,75,0.7942240325833301
+Barnard’s exact test,76,0.9125190474315623
+Barnard’s exact test,77,0.6886579623766542
+Barnard’s exact test,78,1.0
+Barnard’s exact test,79,0.3166678671225551
+Barnard’s exact test,80,0.1311775952947384
+Barnard’s exact test,81,0.9141590152214577
+Barnard’s exact test,82,0.9414410765747212
+Barnard’s exact test,83,0.5298453654410694
+Barnard’s exact test,84,0.8063797329170859
+Barnard’s exact test,85,0.4476535376241514
+Barnard’s exact test,86,0.19411906849131338
+Barnard’s exact test,87,0.9027881397540626
+Barnard’s exact test,88,0.3001377814439111
+Barnard’s exact test,89,0.5840481365569274
+Barnard’s exact test,90,0.4080476354803557
+Barnard’s exact test,91,0.5761610623948511
+Barnard’s exact test,92,0.8092116043414935
+Barnard’s exact test,93,0.1465780681480076
+Barnard’s exact test,94,0.5612211757769598
+Barnard’s exact test,95,0.9393588154356547
+Barnard’s exact test,96,0.8181781281895254
+Barnard’s exact test,97,0.9125190474315623
+Barnard’s exact test,98,0.7216575411161744
+Barnard’s exact test,99,0.5249395561675873
+Barnard’s exact test,100,0.2487098985702006
+Barnard’s exact test,101,0.8157541544586515
+Barnard’s exact test,102,0.4251002678943187
+Barnard’s exact test,103,0.8918131207732298
+Barnard’s exact test,104,0.17255171834789912
+Barnard’s exact test,105,0.5178144288390657
+Barnard’s exact test,106,0.907272658889924
+Barnard’s exact test,107,1.0
+Barnard’s exact test,108,0.12283668306022984
+Barnard’s exact test,109,0.16218154558161782
+Barnard’s exact test,110,0.7942240325833301
+Barnard’s exact test,111,0.09417069440699193
+Barnard’s exact test,112,0.14826277805229163
+Barnard’s exact test,113,0.4080476354803557
+Barnard’s exact test,114,0.5612211757769598
+Barnard’s exact test,115,0.13126397239208276
+Barnard’s exact test,116,0.27828614484059766
+Barnard’s exact test,117,0.7853809393707893
+Barnard’s exact test,118,0.1589000536719638
+Barnard’s exact test,119,0.27160066802646265
+Barnard’s exact test,120,0.5249395561675873
+Barnard’s exact test,121,0.9404265212360955
+Barnard’s exact test,122,0.07204790174366134
+Barnard’s exact test,123,0.4288794931938041
+Barnard’s exact test,124,0.18268333496481048
+Barnard’s exact test,125,0.5460282528681991
+Barnard’s exact test,126,0.27828614484059766
+Barnard’s exact test,127,0.3985434342027815
+Barnard’s exact test,128,0.25674013634132464
+Barnard’s exact test,129,0.3985434342027815
+Barnard’s exact test,130,0.05731972754555882
+Barnard’s exact test,131,0.0019826777858397756
+Barnard’s exact test,132,0.7712977979146264
+Barnard’s exact test,133,0.007571250752274485
+Barnard’s exact test,134,0.5511678821895665
+Barnard’s exact test,135,0.35629638760634696
+Barnard’s exact test,136,0.5919269049125071
+Barnard’s exact test,137,0.9125190474315623
+Barnard’s exact test,138,0.7942240325833301
+Barnard’s exact test,139,0.8157541544586515
+Barnard’s exact test,140,0.28440173675504093
+Barnard’s exact test,141,0.9002549595527188
+Barnard’s exact test,142,0.02069803113598028
+Barnard’s exact test,143,0.1437861970047127
+Barnard’s exact test,144,0.2487098985702006
+Barnard’s exact test,145,0.4251002678943187
+Barnard’s exact test,146,0.10137425036102611
+Barnard’s exact test,147,0.635733987772441
+Barnard’s exact test,148,0.5612211757769598
+Barnard’s exact test,149,0.17255171834789912
+Barnard’s exact test,150,0.09417069440699193
+Barnard’s exact test,151,0.2675189217651234
+Barnard’s exact test,152,0.8063797329170859
+Barnard’s exact test,153,0.8092116043414935
+Barnard’s exact test,154,0.907272658889924
+Barnard’s exact test,155,0.6886579623766542
+Barnard’s exact test,156,0.15715170594011477
+Barnard’s exact test,157,0.7942240325833301
+Barnard’s exact test,158,0.01149353108034811
+Barnard’s exact test,159,0.5320764016893275
+Barnard’s exact test,160,0.14031475429731385
+Barnard’s exact test,161,0.5999064063819666
+Barnard’s exact test,162,0.3452671251402033
+Barnard’s exact test,163,0.8119162915195075
+Barnard’s exact test,164,0.9107641508301783
+Barnard’s exact test,165,0.7981986860391768
+Barnard’s exact test,166,0.5249155838482885
+Barnard’s exact test,167,0.7171672281396994
+Barnard’s exact test,168,0.5999064063819666
+Barnard’s exact test,169,0.635733987772441
+Barnard’s exact test,170,0.9156953243212048
+Barnard’s exact test,171,0.7629413448823743
+Barnard’s exact test,172,0.07204790174366134
+Barnard’s exact test,173,0.3452671251402033
+Barnard’s exact test,174,0.15032849641598134
+Barnard’s exact test,175,0.9442052758955782
+Barnard’s exact test,176,0.22274881543999606
+Barnard’s exact test,177,0.9393588154356547
+Barnard’s exact test,178,0.44284428846803237
+Barnard’s exact test,179,0.7942240325833301
+Barnard’s exact test,180,0.009722400684446695
+Barnard’s exact test,181,0.5320764016893275
+Barnard’s exact test,182,0.8119162915195075
+Barnard’s exact test,183,0.21691477876734466
+Barnard’s exact test,184,0.18268333496481048
+Barnard’s exact test,185,0.13504248478266082
+Barnard’s exact test,186,0.027338820559176847
+Barnard’s exact test,187,0.6949482146742331
+Barnard’s exact test,188,0.8980634749486522
+Barnard’s exact test,189,0.6100183672846432
+Barnard’s exact test,190,0.8320391596562552
+Barnard’s exact test,191,0.019940838179924373
+Barnard’s exact test,192,0.7942240325833301
+Barnard’s exact test,193,0.7124496755518241
+Barnard’s exact test,194,0.027338820559176847
+Barnard’s exact test,195,0.7942240325833301
+Barnard’s exact test,196,0.16366307573554167
+Barnard’s exact test,197,0.4152817774615748
+Barnard’s exact test,198,0.776195863750498
+Barnard’s exact test,199,0.8320391596562552
+Barnard’s exact test,200,0.7171672281396994
+Barnard’s exact test,201,0.2616887748033011
+Barnard’s exact test,202,0.4373932715318999
+Barnard’s exact test,203,0.7300419312697979
+Barnard’s exact test,204,0.7124496755518241
+Barnard’s exact test,205,0.27160066802646265
+Barnard’s exact test,206,0.5919269049125071
+Barnard’s exact test,207,0.2675189217651234
+Barnard’s exact test,208,0.5999064063819666
+Barnard’s exact test,209,0.36098961838314286
+Barnard’s exact test,210,0.5840481365569274
+Barnard’s exact test,211,0.9107641508301783
+Barnard’s exact test,212,1.0
+Barnard’s exact test,213,0.47964400455136624
+Barnard’s exact test,214,0.39363853953014516
+Barnard’s exact test,215,0.6949482146742331
+Barnard’s exact test,216,0.01535547329015164
+Barnard’s exact test,217,0.5178144288390657
+Barnard’s exact test,218,0.17871808649749255
+Barnard’s exact test,219,0.4338555020459431
+Barnard’s exact test,220,0.9125190474315623
+Barnard’s exact test,221,0.2675189217651234
+Barnard’s exact test,222,0.4152817774615748
+Barnard’s exact test,223,0.9107641508301783
+Barnard’s exact test,224,0.630554595694417
+Barnard’s exact test,225,0.2675189217651234
+Barnard’s exact test,226,0.6825369672245201
+Barnard’s exact test,227,0.04184199067793659
+Barnard’s exact test,228,1.0
+Barnard’s exact test,229,0.3319694270217473
+Barnard’s exact test,230,0.3166678671225551
+Barnard’s exact test,231,0.7259467740998663
+Barnard’s exact test,232,0.2541159781670172
+Barnard’s exact test,233,0.2743657881851834
+Barnard’s exact test,234,0.7216575411161744
+Barnard’s exact test,235,0.10025660866916289
+Barnard’s exact test,236,0.2187481775164892
+Barnard’s exact test,237,0.14031475429731385
+Barnard’s exact test,238,0.12880188409326784
+Barnard’s exact test,239,0.07204790174366134
+Barnard’s exact test,240,0.17097863166850072
+Barnard’s exact test,241,0.2743657881851834
+Barnard’s exact test,242,0.9414410765747212
+Barnard’s exact test,243,0.20245372969560074
+Barnard’s exact test,244,0.2675189217651234
+Barnard’s exact test,245,0.7074987171734837
+Barnard’s exact test,246,0.14677179698142717
+Barnard’s exact test,247,0.6070563417981903
+Barnard’s exact test,248,0.47964400455136624
+Barnard’s exact test,249,0.5460282528681991
+Barnard’s exact test,250,0.19830015727475142
+Barnard’s exact test,251,0.4152817774615748
+Barnard’s exact test,252,0.6949482146742331
+Barnard’s exact test,253,0.06343566694305541
+Barnard’s exact test,254,0.007235160860440886
+Barnard’s exact test,255,0.2616887748033011
+Barnard’s exact test,256,0.0775557860592234
+Barnard’s exact test,257,0.23319767312610398
+Barnard’s exact test,258,0.5612211757769598
+Barnard’s exact test,259,0.7942240325833301
+Barnard’s exact test,260,0.35629638760634696
+Barnard’s exact test,261,0.27160066802646265
+Barnard’s exact test,262,0.44284428846803237
+Barnard’s exact test,263,0.3672328910562508
+Barnard’s exact test,264,0.7942240325833301
+Barnard’s exact test,265,0.4688031548112029
+Barnard’s exact test,266,0.21691477876734466
+Barnard’s exact test,267,0.33629772023245447
+Barnard’s exact test,268,0.023162677728222027
+Barnard’s exact test,269,0.23319767312610398
+Barnard’s exact test,270,0.8092116043414935
+Barnard’s exact test,271,0.04493646268115827
+Barnard’s exact test,272,0.7942240325833301
+Barnard’s exact test,273,0.6886579623766542
+Barnard’s exact test,274,0.7124496755518241
+Barnard’s exact test,275,1.0
+Barnard’s exact test,276,0.15032849641598134
+Barnard’s exact test,277,0.2675189217651234
+Barnard’s exact test,278,0.9404265212360955
+Barnard’s exact test,279,0.1465780681480076
+Barnard’s exact test,280,0.5840481365569274
+Barnard’s exact test,281,0.3090405136114745
+Barnard’s exact test,282,0.630554595694417
+Barnard’s exact test,283,0.8092116043414935
+Barnard’s exact test,284,0.5460282528681991
+Barnard’s exact test,285,0.3700347247073443
+Barnard’s exact test,286,0.4080476354803557
+Barnard’s exact test,287,0.4476535376241514
+Barnard’s exact test,288,0.22274881543999606
+Barnard’s exact test,289,0.9107641508301783
+Barnard’s exact test,290,0.8320391596562552
+Barnard’s exact test,291,0.35629638760634696
+Barnard’s exact test,292,0.07260008834631573
+Barnard’s exact test,293,0.011523048802627367
+Barnard’s exact test,294,0.5495912067970657
+Barnard’s exact test,295,0.0006743248502835753
+Barnard’s exact test,296,0.6100183672846432
+Barnard’s exact test,297,0.3592570167847527
+Barnard’s exact test,298,0.45691720159786375
+Barnard’s exact test,299,1.0
+Barnard’s exact test,300,0.49503323581333314
+Barnard’s exact test,301,0.7981986860391768
+Barnard’s exact test,302,0.7971528856180751
+Barnard’s exact test,303,0.19830015727475142
+Barnard’s exact test,304,0.06889750079910414
+Barnard’s exact test,305,0.28440173675504093
+Barnard’s exact test,306,0.6949482146742331
+Barnard’s exact test,307,0.776195863750498
+Barnard’s exact test,308,0.016708318301380497
+Barnard’s exact test,309,0.6199237023196844
+Barnard’s exact test,310,0.20723195892395319
+Barnard’s exact test,311,0.44284428846803237
+Barnard’s exact test,312,0.49503323581333314
+Barnard’s exact test,313,0.3166678671225551
+Barnard’s exact test,314,0.635733987772441
+Barnard’s exact test,315,0.9141590152214577
+Barnard’s exact test,316,0.22274881543999606
+Barnard’s exact test,317,0.18268333496481048
+Barnard’s exact test,318,0.4338555020459431
+Barnard’s exact test,319,0.5460282528681986
+Barnard’s exact test,320,0.9088812663458748
+Barnard’s exact test,321,0.3146065212287072
+Barnard’s exact test,322,0.02728838740476812
+Barnard’s exact test,323,0.5460282528681991
+Barnard’s exact test,324,0.9404265212360955
+Barnard’s exact test,325,0.4882053526936826
+Barnard’s exact test,326,0.5761610623948511
+Barnard’s exact test,327,0.27160066802646265
+Barnard’s exact test,328,0.0023729065467403025
+Barnard’s exact test,329,0.8063797329170859
+Barnard’s exact test,330,0.9141590152214577
+Barnard’s exact test,331,0.49503323581333314
+Barnard’s exact test,332,0.7171672281396994
+Barnard’s exact test,333,0.6555578007469295
+Barnard’s exact test,334,0.9088812663458748
+Barnard’s exact test,335,0.5139735938300084
+Barnard’s exact test,336,0.2964430525855068
+Barnard’s exact test,337,1.0
+Barnard’s exact test,338,0.9051192593445874
+Barnard’s exact test,339,1.0
+Barnard’s exact test,340,0.5761610623948511
+Barnard’s exact test,341,0.2743657881851834
+Barnard’s exact test,342,0.3916295663514796
+Barnard’s exact test,343,0.15032849641598134
+Barnard’s exact test,344,0.20723195892395319
+Barnard’s exact test,345,0.907272658889924
+Barnard’s exact test,346,0.22274881543999606
+Barnard’s exact test,347,0.36098961838314286
+Barnard’s exact test,348,0.8980634749486522
+Barnard’s exact test,349,0.7377159097329898
+Barnard’s exact test,350,0.26325928721635683
+Barnard’s exact test,351,0.5249155838482885
+Barnard’s exact test,352,0.10787673156240835
+Barnard’s exact test,353,0.5178144288390657
+Barnard’s exact test,354,1.0
+Barnard’s exact test,355,0.0420459851947099
+Barnard’s exact test,356,0.3099377189873313
+Barnard’s exact test,357,0.46058226518306206
+Barnard’s exact test,358,0.5320764016893275
+Barnard’s exact test,359,0.49503323581333314
+Barnard’s exact test,360,0.776195863750498
+Barnard’s exact test,361,0.6709544855564139
+Barnard’s exact test,362,1.0
+Barnard’s exact test,363,0.9107641508301783
+Barnard’s exact test,364,0.17255171834789912
+Barnard’s exact test,365,0.4476535376241514
+Barnard’s exact test,366,0.5999064063819666
+Barnard’s exact test,367,0.6949482146742331
+Barnard’s exact test,368,0.0453801455791505
+Barnard’s exact test,369,0.2081321667681227
+Barnard’s exact test,370,0.3445698290372521
+Barnard’s exact test,371,1.0
+Barnard’s exact test,372,0.3700347247073443
+Barnard’s exact test,373,0.5249395561675873
+Barnard’s exact test,374,0.21691477876734466
+Barnard’s exact test,375,0.4908579625724006
+Barnard’s exact test,376,0.8950887429107908
+Barnard’s exact test,377,0.9156953243212048
+Barnard’s exact test,378,0.29327856988734385
+Barnard’s exact test,379,0.23674020893347006
+Barnard’s exact test,380,0.8092116043414935
+Barnard’s exact test,381,0.2875805575098309
+Barnard’s exact test,382,0.6949482146742331
+Barnard’s exact test,383,0.10258622865339014
+Barnard’s exact test,384,0.5249395561675873
+Barnard’s exact test,385,0.7853809393707893
+Barnard’s exact test,386,0.4080476354803557
+Barnard’s exact test,387,0.39363853953014516
+Barnard’s exact test,388,0.16218154558161782
+Barnard’s exact test,389,0.9125190474315623
+Barnard’s exact test,390,0.2675189217651234
+Barnard’s exact test,391,0.33629772023245447
+Barnard’s exact test,392,0.17491245844958458
+Barnard’s exact test,393,0.8320391596562552
+Barnard’s exact test,394,1.0
+Barnard’s exact test,395,0.9051192593445874
+Barnard’s exact test,396,0.3700347247073443
+Barnard’s exact test,397,0.5761610623948511
+Barnard’s exact test,398,0.6949482146742331
+Barnard’s exact test,399,0.07204790174366134
+Barnard’s exact test,400,0.7629413448823743
+Barnard’s exact test,401,1.0
+Barnard’s exact test,402,0.8181781281895254
+Barnard’s exact test,403,0.2616887748033011
+Barnard’s exact test,404,0.2675189217651234
+Barnard’s exact test,405,0.7942240325833301
+Barnard’s exact test,406,1.0
+Barnard’s exact test,407,0.32801652299383627
+Barnard’s exact test,408,0.5139735938300084
+Barnard’s exact test,409,0.2743657881851834
+Barnard’s exact test,410,0.1884729509034857
+Barnard’s exact test,411,0.39363853953014516
+Barnard’s exact test,412,0.45691720159786375
+Barnard’s exact test,413,0.907272658889924
+Barnard’s exact test,414,0.47440662502206216
+Barnard’s exact test,415,0.22274881543999606
+Barnard’s exact test,416,0.7300419312697979
+Barnard’s exact test,417,0.6949482146742331
+Barnard’s exact test,418,0.5320764016893275
+Barnard’s exact test,419,0.8119162915195075
+Barnard’s exact test,420,0.10137425036102611
+Barnard’s exact test,421,0.14677179698142717
+Barnard’s exact test,422,0.35629638760634696
+Barnard’s exact test,423,0.2675189217651234
+Barnard’s exact test,424,1.0
+Barnard’s exact test,425,0.7171672281396994
+Barnard’s exact test,426,0.47964400455136624
+Barnard’s exact test,427,0.06889750079910414
+Barnard’s exact test,428,0.9125190474315623
+Barnard’s exact test,429,0.7480935490160522
+Barnard’s exact test,430,0.3001377814439111
+Barnard’s exact test,431,0.4476535376241514
+Barnard’s exact test,432,0.09350774585211764
+Barnard’s exact test,433,0.12880188409326784
+Barnard’s exact test,434,0.6764901706251631
+Barnard’s exact test,435,0.5178144288390657
+Barnard’s exact test,436,0.7124496755518241
+Barnard’s exact test,437,0.8181781281895254
+Barnard’s exact test,438,0.8980634749486522
+Barnard’s exact test,439,0.9424066375723094
+Barnard’s exact test,440,0.03092033577329885
+Barnard’s exact test,441,0.7971528856180751
+Barnard’s exact test,442,0.7681800992027352
+Barnard’s exact test,443,0.9404265212360955
+Barnard’s exact test,444,0.027962556935818964
+Barnard’s exact test,445,0.4882053526936826
+Barnard’s exact test,446,0.3319694270217473
+Barnard’s exact test,447,0.3700347247073443
+Barnard’s exact test,448,0.08171520376945375
+Barnard’s exact test,449,0.3672328910562508
+Barnard’s exact test,450,0.3228726596998931
+Barnard’s exact test,451,0.9404265212360955
+Barnard’s exact test,452,1.0
+Barnard’s exact test,453,0.37997135137542853
+Barnard’s exact test,454,0.5178144288390657
+Barnard’s exact test,455,0.6949482146742331
+Barnard’s exact test,456,0.5919269049125071
+Barnard’s exact test,457,0.9404265212360955
+Barnard’s exact test,458,0.13126397239208276
+Barnard’s exact test,459,0.9088812663458748
+Barnard’s exact test,460,0.19444602281422377
+Barnard’s exact test,461,0.6825369672245201
+Barnard’s exact test,462,0.5178144288390657
+Barnard’s exact test,463,0.08336580060874926
+Barnard’s exact test,464,0.8063797329170859
+Barnard’s exact test,465,0.1292208926821648
+Barnard’s exact test,466,0.2743657881851834
+Barnard’s exact test,467,0.9393588154356547
+Barnard’s exact test,468,0.8092116043414935
+Barnard’s exact test,469,0.014776279753257033
+Barnard’s exact test,470,0.9088812663458748
+Barnard’s exact test,471,0.8119162915195075
+Barnard’s exact test,472,0.7981986860391768
+Barnard’s exact test,473,0.6252420794689862
+Barnard’s exact test,474,0.16366307573554167
+Barnard’s exact test,475,0.15715170594011477
+Barnard’s exact test,476,0.24786821738898124
+Barnard’s exact test,477,0.5460282528681991
+Barnard’s exact test,478,0.6764901706251631
+Barnard’s exact test,479,0.9051192593445874
+Barnard’s exact test,480,0.0517022108218755
+Barnard’s exact test,481,0.4671565982115254
+Barnard’s exact test,482,0.2738220191577247
+Barnard’s exact test,483,0.00658065062208315
+Barnard’s exact test,484,0.4251002678943187
+Barnard’s exact test,485,0.9125190474315623
+Barnard’s exact test,486,0.6100183672846432
+Barnard’s exact test,487,0.776195863750498
+Barnard’s exact test,488,0.36098961838314286
+Barnard’s exact test,489,0.09417069440699193
+Barnard’s exact test,490,0.5249395561675873
+Barnard’s exact test,491,0.3985434342027815
+Barnard’s exact test,492,0.8092116043414935
+Barnard’s exact test,493,0.7074987171734837
+Barnard’s exact test,494,0.6886579623766542
+Barnard’s exact test,495,0.9404265212360955
+Barnard’s exact test,496,0.10754809792257128
+Barnard’s exact test,497,0.5139735938300084
+Barnard’s exact test,498,0.8950887429107908
+Barnard’s exact test,499,0.23319767312610398
+Boschloo’s exact test,0,0.15407094359202686
+Boschloo’s exact test,1,0.3052665144742588
+Boschloo’s exact test,2,0.39446850323706617
+Boschloo’s exact test,3,0.4803038634085792
+Boschloo’s exact test,4,0.5648689292758156
+Boschloo’s exact test,5,0.6900021833374034
+Boschloo’s exact test,6,0.17681966686406334
+Boschloo’s exact test,7,0.9821609888552797
+Boschloo’s exact test,8,0.5935958162214899
+Boschloo’s exact test,9,0.7543681049463868
+Boschloo’s exact test,10,0.6513323961646991
+Boschloo’s exact test,11,0.7253772914053517
+Boschloo’s exact test,12,0.5360012813106354
+Boschloo’s exact test,13,0.4803038634085792
+Boschloo’s exact test,14,0.674566426279744
+Boschloo’s exact test,15,1.0
+Boschloo’s exact test,16,0.8547351308091059
+Boschloo’s exact test,17,0.779066263106984
+Boschloo’s exact test,18,0.8643489271191378
+Boschloo’s exact test,19,0.5564535269412229
+Boschloo’s exact test,20,0.01885865476359928
+Boschloo’s exact test,21,0.7434511781938469
+Boschloo’s exact test,22,0.1068539651809064
+Boschloo’s exact test,23,0.10587324300296731
+Boschloo’s exact test,24,0.2701511550998664
+Boschloo’s exact test,25,0.2586359194489795
+Boschloo’s exact test,26,0.8702379605507521
+Boschloo’s exact test,27,0.18319127920214215
+Boschloo’s exact test,28,0.6513323961646447
+Boschloo’s exact test,29,0.644170955577756
+Boschloo’s exact test,30,0.29327856988734696
+Boschloo’s exact test,31,1.0
+Boschloo’s exact test,32,0.25242166623183426
+Boschloo’s exact test,33,0.7857560447235629
+Boschloo’s exact test,34,0.9821609888552797
+Boschloo’s exact test,35,0.782473039927628
+Boschloo’s exact test,36,0.1941190677738698
+Boschloo’s exact test,37,0.858161196604153
+Boschloo’s exact test,38,0.6652814976409819
+Boschloo’s exact test,39,0.20245372969560088
+Boschloo’s exact test,40,0.16982034015156564
+Boschloo’s exact test,41,0.17430615945637767
+Boschloo’s exact test,42,0.7373250398728425
+Boschloo’s exact test,43,0.5743792010926815
+Boschloo’s exact test,44,0.8510030845321775
+Boschloo’s exact test,45,0.8643489271191417
+Boschloo’s exact test,46,0.6441709555777669
+Boschloo’s exact test,47,0.06343566694305541
+Boschloo’s exact test,48,0.9821609888552797
+Boschloo’s exact test,49,1.0
+Boschloo’s exact test,50,0.08551262094832192
+Boschloo’s exact test,51,0.4054870584638531
+Boschloo’s exact test,52,1.0
+Boschloo’s exact test,53,0.3003672897981464
+Boschloo’s exact test,54,0.4465555604264676
+Boschloo’s exact test,55,0.6513323961646447
+Boschloo’s exact test,56,0.4080476354803354
+Boschloo’s exact test,57,0.38317685533565843
+Boschloo’s exact test,58,0.45987693134701263
+Boschloo’s exact test,59,0.9821609888552797
+Boschloo’s exact test,60,0.31430442148030635
+Boschloo’s exact test,61,0.21011522524516707
+Boschloo’s exact test,62,0.2969633376674725
+Boschloo’s exact test,63,0.43554774297731463
+Boschloo’s exact test,64,0.02058745965492091
+Boschloo’s exact test,65,0.5761610623948511
+Boschloo’s exact test,66,0.13975492743107426
+Boschloo’s exact test,67,0.22481770221414615
+Boschloo’s exact test,68,0.9821609888552797
+Boschloo’s exact test,69,0.488205352693683
+Boschloo’s exact test,70,0.6799403331487476
+Boschloo’s exact test,71,0.6709544855564139
+Boschloo’s exact test,72,0.39446850323706617
+Boschloo’s exact test,73,0.6799403331487476
+Boschloo’s exact test,74,0.9821609888552797
+Boschloo’s exact test,75,0.8673391580340232
+Boschloo’s exact test,76,0.9821609888552797
+Boschloo’s exact test,77,0.7594222900490205
+Boschloo’s exact test,78,1.0
+Boschloo’s exact test,79,0.3682005572971261
+Boschloo’s exact test,80,0.15212042848959392
+Boschloo’s exact test,81,0.9821609888552797
+Boschloo’s exact test,82,0.9821609888552797
+Boschloo’s exact test,83,0.4465555604264676
+Boschloo’s exact test,84,0.8731653329661602
+Boschloo’s exact test,85,0.49877527565313495
+Boschloo’s exact test,86,0.22481770221414615
+Boschloo’s exact test,87,0.9821609888552797
+Boschloo’s exact test,88,0.3415891136777293
+Boschloo’s exact test,89,0.6513323961646447
+Boschloo’s exact test,90,0.46140424134550045
+Boschloo’s exact test,91,0.6441709555777669
+Boschloo’s exact test,92,0.8756244234347083
+Boschloo’s exact test,93,0.17681966686406334
+Boschloo’s exact test,94,0.6386701160713738
+Boschloo’s exact test,95,0.9821609888552797
+Boschloo’s exact test,96,0.8756244234347083
+Boschloo’s exact test,97,0.9821609888552797
+Boschloo’s exact test,98,0.7720341502157402
+Boschloo’s exact test,99,0.5648689292758156
+Boschloo’s exact test,100,0.29327856988734696
+Boschloo’s exact test,101,0.8756244234347083
+Boschloo’s exact test,102,0.4803038634085792
+Boschloo’s exact test,103,0.9821609888552797
+Boschloo’s exact test,104,0.20245372969560088
+Boschloo’s exact test,105,0.5761610623948511
+Boschloo’s exact test,106,0.9821609888552797
+Boschloo’s exact test,107,1.0
+Boschloo’s exact test,108,0.1496505740979476
+Boschloo’s exact test,109,0.1876960748662352
+Boschloo’s exact test,110,0.8673391580340232
+Boschloo’s exact test,111,0.11235218992405364
+Boschloo’s exact test,112,0.18706188977149646
+Boschloo’s exact test,113,0.46140424134550045
+Boschloo’s exact test,114,0.6386701160713738
+Boschloo’s exact test,115,0.15890005367196378
+Boschloo’s exact test,116,0.31430442148030635
+Boschloo’s exact test,117,0.8612829416697769
+Boschloo’s exact test,118,0.18319127920211303
+Boschloo’s exact test,119,0.3052665144742588
+Boschloo’s exact test,120,0.5648689292758156
+Boschloo’s exact test,121,0.9821609888552797
+Boschloo’s exact test,122,0.08717580392016495
+Boschloo’s exact test,123,0.4977488164371241
+Boschloo’s exact test,124,0.21011522524516707
+Boschloo’s exact test,125,0.6182026380446203
+Boschloo’s exact test,126,0.31430442148030635
+Boschloo’s exact test,127,0.45987693134701263
+Boschloo’s exact test,128,0.3003672897981464
+Boschloo’s exact test,129,0.4598769313468831
+Boschloo’s exact test,130,0.06584217733838026
+Boschloo’s exact test,131,0.002530136452647491
+Boschloo’s exact test,132,0.8510030845321775
+Boschloo’s exact test,133,0.009441761628243379
+Boschloo’s exact test,134,0.6273871023542026
+Boschloo’s exact test,135,0.4054870584639143
+Boschloo’s exact test,136,0.6582828329324435
+Boschloo’s exact test,137,0.9821609888552797
+Boschloo’s exact test,138,0.8673391580339324
+Boschloo’s exact test,139,0.8756244234347083
+Boschloo’s exact test,140,0.32749152956075284
+Boschloo’s exact test,141,0.9821609888552797
+Boschloo’s exact test,142,0.024293566454724524
+Boschloo’s exact test,143,0.16926018637035223
+Boschloo’s exact test,144,0.29327856988734696
+Boschloo’s exact test,145,0.48030386340854425
+Boschloo’s exact test,146,0.1228366830602271
+Boschloo’s exact test,147,0.6900021833374506
+Boschloo’s exact test,148,0.6386701160713738
+Boschloo’s exact test,149,0.20245372969560088
+Boschloo’s exact test,150,0.11235218992405364
+Boschloo’s exact test,151,0.31430442148030635
+Boschloo’s exact test,152,0.8731653329662532
+Boschloo’s exact test,153,0.8756244234347083
+Boschloo’s exact test,154,0.9821609888552797
+Boschloo’s exact test,155,0.7594222900488196
+Boschloo’s exact test,156,0.18706188977150826
+Boschloo’s exact test,157,0.8673391580340232
+Boschloo’s exact test,158,0.01366670362676752
+Boschloo’s exact test,159,0.5869832992960762
+Boschloo’s exact test,160,0.1698203401515409
+Boschloo’s exact test,161,0.6652814976409819
+Boschloo’s exact test,162,0.3944685032370658
+Boschloo’s exact test,163,0.8756244234347083
+Boschloo’s exact test,164,0.9821609888552797
+Boschloo’s exact test,165,0.8702379605508641
+Boschloo’s exact test,166,0.5802495010268335
+Boschloo’s exact test,167,0.7712977979146264
+Boschloo’s exact test,168,0.6652814976408696
+Boschloo’s exact test,169,0.6900021833374506
+Boschloo’s exact test,170,0.9821609888552797
+Boschloo’s exact test,171,0.8429116835293597
+Boschloo’s exact test,172,0.08717580392017008
+Boschloo’s exact test,173,0.39446850323706617
+Boschloo’s exact test,174,0.17430615945637767
+Boschloo’s exact test,175,0.9821609888552797
+Boschloo’s exact test,176,0.25932319186335
+Boschloo’s exact test,177,0.9821609888552797
+Boschloo’s exact test,178,0.49085796253188374
+Boschloo’s exact test,179,0.8673391580339324
+Boschloo’s exact test,180,0.011847468913389997
+Boschloo’s exact test,181,0.586983299296081
+Boschloo’s exact test,182,0.8756244234347083
+Boschloo’s exact test,183,0.2541159781670172
+Boschloo’s exact test,184,0.210115225245185
+Boschloo’s exact test,185,0.16009424804295003
+Boschloo’s exact test,186,0.03442268246324442
+Boschloo’s exact test,187,0.7644754341917588
+Boschloo’s exact test,188,0.9821609888552797
+Boschloo’s exact test,189,0.6709544855564139
+Boschloo’s exact test,190,0.8756244234347083
+Boschloo’s exact test,191,0.025030738421857587
+Boschloo’s exact test,192,0.8673391580339324
+Boschloo’s exact test,193,0.7712977979146264
+Boschloo’s exact test,194,0.03442268246324442
+Boschloo’s exact test,195,0.8673391580339324
+Boschloo’s exact test,196,0.19411906777387136
+Boschloo’s exact test,197,0.47087733366584156
+Boschloo’s exact test,198,0.8547351308091059
+Boschloo’s exact test,199,0.8756244234347083
+Boschloo’s exact test,200,0.7712977979146517
+Boschloo’s exact test,201,0.2969633376674725
+Boschloo’s exact test,202,0.5104336271398183
+Boschloo’s exact test,203,0.779066263106984
+Boschloo’s exact test,204,0.7712977979146264
+Boschloo’s exact test,205,0.3052665144742588
+Boschloo’s exact test,206,0.6582828329324435
+Boschloo’s exact test,207,0.31430442148030635
+Boschloo’s exact test,208,0.6652814976408696
+Boschloo’s exact test,209,0.4080476354803354
+Boschloo’s exact test,210,0.6513323961646447
+Boschloo’s exact test,211,0.9821609888552797
+Boschloo’s exact test,212,1.0
+Boschloo’s exact test,213,0.546028252868199
+Boschloo’s exact test,214,0.43385550204594303
+Boschloo’s exact test,215,0.7644754341917588
+Boschloo’s exact test,216,0.01885865476359928
+Boschloo’s exact test,217,0.5761610623948511
+Boschloo’s exact test,218,0.2187481775164894
+Boschloo’s exact test,219,0.488205352693683
+Boschloo’s exact test,220,0.9821609888552797
+Boschloo’s exact test,221,0.31430442148030635
+Boschloo’s exact test,222,0.4708773336658127
+Boschloo’s exact test,223,0.9821609888552797
+Boschloo’s exact test,224,0.68506723140349
+Boschloo’s exact test,225,0.31430442148030635
+Boschloo’s exact test,226,0.7543681049463868
+Boschloo’s exact test,227,0.0517022108218755
+Boschloo’s exact test,228,1.0
+Boschloo’s exact test,229,0.37090202456295557
+Boschloo’s exact test,230,0.3682005572971261
+Boschloo’s exact test,231,0.7755728074613807
+Boschloo’s exact test,232,0.2932785698873618
+Boschloo’s exact test,233,0.31715728659688613
+Boschloo’s exact test,234,0.7720341502157773
+Boschloo’s exact test,235,0.12283668306022699
+Boschloo’s exact test,236,0.2469608683333292
+Boschloo’s exact test,237,0.1698203401515409
+Boschloo’s exact test,238,0.15407094359202686
+Boschloo’s exact test,239,0.08717580392017008
+Boschloo’s exact test,240,0.1958312378327192
+Boschloo’s exact test,241,0.31715728659688613
+Boschloo’s exact test,242,0.9821609888552797
+Boschloo’s exact test,243,0.2359636886777156
+Boschloo’s exact test,244,0.31430442148030635
+Boschloo’s exact test,245,0.7703514557973589
+Boschloo’s exact test,246,0.1725517183478991
+Boschloo’s exact test,247,0.6709544855564139
+Boschloo’s exact test,248,0.546028252868199
+Boschloo’s exact test,249,0.6182026380446203
+Boschloo’s exact test,250,0.2359636886777156
+Boschloo’s exact test,251,0.4708773336658127
+Boschloo’s exact test,252,0.7644754341919041
+Boschloo’s exact test,253,0.07728689056274948
+Boschloo’s exact test,254,0.008927302603102674
+Boschloo’s exact test,255,0.2969633376674725
+Boschloo’s exact test,256,0.09350774585211764
+Boschloo’s exact test,257,0.2701511550998664
+Boschloo’s exact test,258,0.6386701160713738
+Boschloo’s exact test,259,0.8673391580340232
+Boschloo’s exact test,260,0.4054870584639143
+Boschloo’s exact test,261,0.3052665144742588
+Boschloo’s exact test,262,0.49085796253188374
+Boschloo’s exact test,263,0.43080592708015897
+Boschloo’s exact test,264,0.8673391580340232
+Boschloo’s exact test,265,0.5360012813105797
+Boschloo’s exact test,266,0.2541159781670172
+Boschloo’s exact test,267,0.38439958178570965
+Boschloo’s exact test,268,0.028089139664999145
+Boschloo’s exact test,269,0.27015115509986615
+Boschloo’s exact test,270,0.8756244234347083
+Boschloo’s exact test,271,0.05773195320328207
+Boschloo’s exact test,272,0.8673391580339324
+Boschloo’s exact test,273,0.7594222900488196
+Boschloo’s exact test,274,0.7712977979146264
+Boschloo’s exact test,275,1.0
+Boschloo’s exact test,276,0.17430615945637767
+Boschloo’s exact test,277,0.31430442148030635
+Boschloo’s exact test,278,0.9821609888552797
+Boschloo’s exact test,279,0.17681966686406334
+Boschloo’s exact test,280,0.6513323961646991
+Boschloo’s exact test,281,0.3592570167847482
+Boschloo’s exact test,282,0.68506723140349
+Boschloo’s exact test,283,0.8756244234347083
+Boschloo’s exact test,284,0.6182026380446203
+Boschloo’s exact test,285,0.4165343613739053
+Boschloo’s exact test,286,0.46140424134550045
+Boschloo’s exact test,287,0.4987752756531394
+Boschloo’s exact test,288,0.25932319186335
+Boschloo’s exact test,289,0.9821609888552797
+Boschloo’s exact test,290,0.8756244234347083
+Boschloo’s exact test,291,0.4054870584639143
+Boschloo’s exact test,292,0.08591395813640469
+Boschloo’s exact test,293,0.014776279753257059
+Boschloo’s exact test,294,0.6070563417981898
+Boschloo’s exact test,295,0.0007871513777823402
+Boschloo’s exact test,296,0.6709544855564139
+Boschloo’s exact test,297,0.4170410133287879
+Boschloo’s exact test,298,0.5067543249719673
+Boschloo’s exact test,299,1.0
+Boschloo’s exact test,300,0.5564535269413706
+Boschloo’s exact test,301,0.8702379605508641
+Boschloo’s exact test,302,0.8581611966041264
+Boschloo’s exact test,303,0.2359636886777156
+Boschloo’s exact test,304,0.08171520189006329
+Boschloo’s exact test,305,0.32749152956075284
+Boschloo’s exact test,306,0.7644754341917588
+Boschloo’s exact test,307,0.8547351308091059
+Boschloo’s exact test,308,0.02058745965492091
+Boschloo’s exact test,309,0.7090340299889168
+Boschloo’s exact test,310,0.24265963473415167
+Boschloo’s exact test,311,0.49085796253202896
+Boschloo’s exact test,312,0.5564535269412229
+Boschloo’s exact test,313,0.3682005572971261
+Boschloo’s exact test,314,0.6900021833374506
+Boschloo’s exact test,315,0.9821609888552797
+Boschloo’s exact test,316,0.25932319186335
+Boschloo’s exact test,317,0.210115225245185
+Boschloo’s exact test,318,0.488205352693683
+Boschloo’s exact test,319,0.6003222740179599
+Boschloo’s exact test,320,0.9821609888552797
+Boschloo’s exact test,321,0.3592570167847482
+Boschloo’s exact test,322,0.03362203437282991
+Boschloo’s exact test,323,0.6182026380446203
+Boschloo’s exact test,324,0.9821609888552797
+Boschloo’s exact test,325,0.548066046254145
+Boschloo’s exact test,326,0.6441709555777669
+Boschloo’s exact test,327,0.30526651447422815
+Boschloo’s exact test,328,0.0029304204915516652
+Boschloo’s exact test,329,0.8731653329662532
+Boschloo’s exact test,330,0.9821609888552797
+Boschloo’s exact test,331,0.5564535269413706
+Boschloo’s exact test,332,0.7712977979146517
+Boschloo’s exact test,333,0.7373250398728425
+Boschloo’s exact test,334,0.9821609888552797
+Boschloo’s exact test,335,0.5743792010926815
+Boschloo’s exact test,336,0.34981551234157143
+Boschloo’s exact test,337,1.0
+Boschloo’s exact test,338,0.9821609888552797
+Boschloo’s exact test,339,1.0
+Boschloo’s exact test,340,0.644170955577756
+Boschloo’s exact test,341,0.31715728659696923
+Boschloo’s exact test,342,0.43554774297731463
+Boschloo’s exact test,343,0.1743061594563659
+Boschloo’s exact test,344,0.24265963473415167
+Boschloo’s exact test,345,0.9821609888552797
+Boschloo’s exact test,346,0.25932319186335
+Boschloo’s exact test,347,0.4080476354803354
+Boschloo’s exact test,348,0.9821609888552797
+Boschloo’s exact test,349,0.7857560447235629
+Boschloo’s exact test,350,0.31460650131663154
+Boschloo’s exact test,351,0.5802495010268335
+Boschloo’s exact test,352,0.1265597265556996
+Boschloo’s exact test,353,0.5761610623948511
+Boschloo’s exact test,354,1.0
+Boschloo’s exact test,355,0.051734461736840584
+Boschloo’s exact test,356,0.3508880403179024
+Boschloo’s exact test,357,0.5258273683663751
+Boschloo’s exact test,358,0.586983299296081
+Boschloo’s exact test,359,0.5564535269412229
+Boschloo’s exact test,360,0.8547351308090968
+Boschloo’s exact test,361,0.7434511781938469
+Boschloo’s exact test,362,1.0
+Boschloo’s exact test,363,0.9821609888552797
+Boschloo’s exact test,364,0.20245372969560088
+Boschloo’s exact test,365,0.49877527565313495
+Boschloo’s exact test,366,0.6652814976409819
+Boschloo’s exact test,367,0.7644754341917588
+Boschloo’s exact test,368,0.05474261434467082
+Boschloo’s exact test,369,0.23846673619227055
+Boschloo’s exact test,370,0.40804763548033574
+Boschloo’s exact test,371,1.0
+Boschloo’s exact test,372,0.4165343613739053
+Boschloo’s exact test,373,0.5648689292757735
+Boschloo’s exact test,374,0.2541159781670172
+Boschloo’s exact test,375,0.5410694054338064
+Boschloo’s exact test,376,0.9821609888552797
+Boschloo’s exact test,377,0.9821609888552797
+Boschloo’s exact test,378,0.3362977202324547
+Boschloo’s exact test,379,0.28151193608751135
+Boschloo’s exact test,380,0.8756244234347083
+Boschloo’s exact test,381,0.33712265409985753
+Boschloo’s exact test,382,0.7644754341919041
+Boschloo’s exact test,383,0.12283668306022699
+Boschloo’s exact test,384,0.5648689292758156
+Boschloo’s exact test,385,0.8612829416697769
+Boschloo’s exact test,386,0.46140424134550045
+Boschloo’s exact test,387,0.43385550204594303
+Boschloo’s exact test,388,0.1876960748662352
+Boschloo’s exact test,389,0.9821609888552797
+Boschloo’s exact test,390,0.31430442148030635
+Boschloo’s exact test,391,0.3843995817857363
+Boschloo’s exact test,392,0.20245372969560088
+Boschloo’s exact test,393,0.8756244234347083
+Boschloo’s exact test,394,1.0
+Boschloo’s exact test,395,0.9821609888552797
+Boschloo’s exact test,396,0.4165343613739053
+Boschloo’s exact test,397,0.644170955577756
+Boschloo’s exact test,398,0.7644754341917588
+Boschloo’s exact test,399,0.08717580392016495
+Boschloo’s exact test,400,0.8429116835293597
+Boschloo’s exact test,401,1.0
+Boschloo’s exact test,402,0.8756244234347083
+Boschloo’s exact test,403,0.2969633376674725
+Boschloo’s exact test,404,0.31430442148030635
+Boschloo’s exact test,405,0.8673391580340232
+Boschloo’s exact test,406,1.0
+Boschloo’s exact test,407,0.38055510922801383
+Boschloo’s exact test,408,0.5743792010926932
+Boschloo’s exact test,409,0.31715728659696923
+Boschloo’s exact test,410,0.22421704387530353
+Boschloo’s exact test,411,0.43385550204594303
+Boschloo’s exact test,412,0.5067543249719456
+Boschloo’s exact test,413,0.9821609888552797
+Boschloo’s exact test,414,0.5212809276053809
+Boschloo’s exact test,415,0.25932319186335784
+Boschloo’s exact test,416,0.779066263106984
+Boschloo’s exact test,417,0.7644754341919041
+Boschloo’s exact test,418,0.586983299296081
+Boschloo’s exact test,419,0.8756244234347083
+Boschloo’s exact test,420,0.1228366830602271
+Boschloo’s exact test,421,0.1725517183478991
+Boschloo’s exact test,422,0.4054870584638531
+Boschloo’s exact test,423,0.31430442148030635
+Boschloo’s exact test,424,1.0
+Boschloo’s exact test,425,0.7712977979146517
+Boschloo’s exact test,426,0.546028252868199
+Boschloo’s exact test,427,0.08171520189006329
+Boschloo’s exact test,428,0.9821609888552797
+Boschloo’s exact test,429,0.8405124276665062
+Boschloo’s exact test,430,0.34158911367771655
+Boschloo’s exact test,431,0.4987752756531394
+Boschloo’s exact test,432,0.11235218992405364
+Boschloo’s exact test,433,0.1540709435919991
+Boschloo’s exact test,434,0.7490298558170198
+Boschloo’s exact test,435,0.5761610623948511
+Boschloo’s exact test,436,0.7712977979146264
+Boschloo’s exact test,437,0.8756244234347083
+Boschloo’s exact test,438,0.9821609888552797
+Boschloo’s exact test,439,0.9821609888552797
+Boschloo’s exact test,440,0.03754099405052708
+Boschloo’s exact test,441,0.8581611966041264
+Boschloo’s exact test,442,0.8469648845283522
+Boschloo’s exact test,443,0.9821609888552797
+Boschloo’s exact test,444,0.0342961161547186
+Boschloo’s exact test,445,0.5343256791963622
+Boschloo’s exact test,446,0.37090202456295523
+Boschloo’s exact test,447,0.4165343613739294
+Boschloo’s exact test,448,0.10115941708854816
+Boschloo’s exact test,449,0.43080592708021903
+Boschloo’s exact test,450,0.362732466766346
+Boschloo’s exact test,451,0.9821609888552797
+Boschloo’s exact test,452,1.0
+Boschloo’s exact test,453,0.42544544478162205
+Boschloo’s exact test,454,0.5761610623948511
+Boschloo’s exact test,455,0.7644754341917588
+Boschloo’s exact test,456,0.6582828329324435
+Boschloo’s exact test,457,0.9821609888552797
+Boschloo’s exact test,458,0.15890005367196378
+Boschloo’s exact test,459,0.9821609888552797
+Boschloo’s exact test,460,0.23699292676446915
+Boschloo’s exact test,461,0.7543681049463868
+Boschloo’s exact test,462,0.5761610623948511
+Boschloo’s exact test,463,0.09955070709982865
+Boschloo’s exact test,464,0.8731653329662532
+Boschloo’s exact test,465,0.13803470272727442
+Boschloo’s exact test,466,0.31715728659696923
+Boschloo’s exact test,467,0.9821609888552797
+Boschloo’s exact test,468,0.8756244234347083
+Boschloo’s exact test,469,0.0181325207709365
+Boschloo’s exact test,470,0.9821609888552797
+Boschloo’s exact test,471,0.8756244234347083
+Boschloo’s exact test,472,0.8702379605508641
+Boschloo’s exact test,473,0.6799403331487451
+Boschloo’s exact test,474,0.19411906777387136
+Boschloo’s exact test,475,0.18706188977150826
+Boschloo’s exact test,476,0.2838590283312392
+Boschloo’s exact test,477,0.6182026380446203
+Boschloo’s exact test,478,0.7490298558170198
+Boschloo’s exact test,479,0.9821609888552797
+Boschloo’s exact test,480,0.06343566694305541
+Boschloo’s exact test,481,0.516697796257945
+Boschloo’s exact test,482,0.3288527595064497
+Boschloo’s exact test,483,0.007840418782544602
+Boschloo’s exact test,484,0.48030386340854425
+Boschloo’s exact test,485,0.9821609888552797
+Boschloo’s exact test,486,0.6709544855564139
+Boschloo’s exact test,487,0.8547351308091059
+Boschloo’s exact test,488,0.4080476354803354
+Boschloo’s exact test,489,0.11235218992405364
+Boschloo’s exact test,490,0.5648689292757735
+Boschloo’s exact test,491,0.45987693134701263
+Boschloo’s exact test,492,0.8756244234347083
+Boschloo’s exact test,493,0.7703514557973589
+Boschloo’s exact test,494,0.7594222900490205
+Boschloo’s exact test,495,0.9821609888552797
+Boschloo’s exact test,496,0.13151473917022075
+Boschloo’s exact test,497,0.5743792010926815
+Boschloo’s exact test,498,0.9821609888552797
+Boschloo’s exact test,499,0.2701511550998664
+Fisher’s exact test,0,0.1632883504920258
+Fisher’s exact test,1,0.32016839630861993
+Fisher’s exact test,2,0.412225876563963
+Fisher’s exact test,3,0.49829974377609415
+Fisher’s exact test,4,0.5848172907161235
+Fisher’s exact test,5,0.7115496344625529
+Fisher’s exact test,6,0.18801992066981552
+Fisher’s exact test,7,1.0
+Fisher’s exact test,8,0.6143051693161249
+Fisher’s exact test,9,0.776963028239937
+Fisher’s exact test,10,0.6737581508601311
+Fisher’s exact test,11,0.7468427039375696
+Fisher’s exact test,12,0.5553538353938984
+Fisher’s exact test,13,0.49829974377609415
+Fisher’s exact test,14,0.6990378047731226
+Fisher’s exact test,15,1.0
+Fisher’s exact test,16,0.879058401428823
+Fisher’s exact test,17,0.8039332735832733
+Fisher’s exact test,18,0.8862948771419283
+Fisher’s exact test,19,0.5780234417095613
+Fisher’s exact test,20,0.020416798187631223
+Fisher’s exact test,21,0.7681863037950621
+Fisher’s exact test,22,0.11430023065778833
+Fisher’s exact test,23,0.11351518013427474
+Fisher’s exact test,24,0.28226132136294946
+Fisher’s exact test,25,0.2734031928159336
+Fisher’s exact test,26,0.8904342673117316
+Fisher’s exact test,27,0.19309365150422483
+Fisher’s exact test,28,0.6737581508601311
+Fisher’s exact test,29,0.6678552200119252
+Fisher’s exact test,30,0.306430731082737
+Fisher’s exact test,31,1.0
+Fisher’s exact test,32,0.2633431489739235
+Fisher’s exact test,33,0.8092211331916241
+Fisher’s exact test,34,1.0
+Fisher’s exact test,35,0.8066342445243776
+Fisher’s exact test,36,0.2056062621134588
+Fisher’s exact test,37,0.8816270487464141
+Fisher’s exact test,38,0.6846452294930797
+Fisher’s exact test,39,0.2137019983438934
+Fisher’s exact test,40,0.17884190792309212
+Fisher’s exact test,41,0.1858970630678846
+Fisher’s exact test,42,0.7582403387090991
+Fisher’s exact test,43,0.5912807731719152
+Fisher’s exact test,44,0.8763090105023293
+Fisher’s exact test,45,0.8862948771419283
+Fisher’s exact test,46,0.6678552200119252
+Fisher’s exact test,47,0.06785562302568761
+Fisher’s exact test,48,1.0
+Fisher’s exact test,49,1.0
+Fisher’s exact test,50,0.09248967864637725
+Fisher’s exact test,51,0.42031565460540604
+Fisher’s exact test,52,1.0
+Fisher’s exact test,53,0.31608989661230946
+Fisher’s exact test,54,0.46544764674517364
+Fisher’s exact test,55,0.6737581508601311
+Fisher’s exact test,56,0.42807029097222543
+Fisher’s exact test,57,0.40073441455606357
+Fisher’s exact test,58,0.4742828546807537
+Fisher’s exact test,59,1.0
+Fisher’s exact test,60,0.3253576232659936
+Fisher’s exact test,61,0.22220748787741165
+Fisher’s exact test,62,0.3130695463752149
+Fisher’s exact test,63,0.4561371695124095
+Fisher’s exact test,64,0.022332337135700712
+Fisher’s exact test,65,0.5974395089509673
+Fisher’s exact test,66,0.14876572911442587
+Fisher’s exact test,67,0.23788093060272683
+Fisher’s exact test,68,1.0
+Fisher’s exact test,69,0.5055782381828365
+Fisher’s exact test,70,0.703396556209737
+Fisher’s exact test,71,0.689679980011228
+Fisher’s exact test,72,0.412225876563963
+Fisher’s exact test,73,0.703396556209737
+Fisher’s exact test,74,1.0
+Fisher’s exact test,75,0.8884242958101276
+Fisher’s exact test,76,1.0
+Fisher’s exact test,77,0.7809810251087685
+Fisher’s exact test,78,1.0
+Fisher’s exact test,79,0.38569479816242486
+Fisher’s exact test,80,0.16176778776294887
+Fisher’s exact test,81,1.0
+Fisher’s exact test,82,1.0
+Fisher’s exact test,83,0.46544764674517364
+Fisher’s exact test,84,0.8923354721848561
+Fisher’s exact test,85,0.5191976464747567
+Fisher’s exact test,86,0.23788093060272683
+Fisher’s exact test,87,1.0
+Fisher’s exact test,88,0.3589613674074836
+Fisher’s exact test,89,0.6737581508601311
+Fisher’s exact test,90,0.48268108792436315
+Fisher’s exact test,91,0.6678552200119252
+Fisher’s exact test,92,0.8941373010263153
+Fisher’s exact test,93,0.18801992066981552
+Fisher’s exact test,94,0.6549775440072093
+Fisher’s exact test,95,1.0
+Fisher’s exact test,96,0.8990249196512118
+Fisher’s exact test,97,1.0
+Fisher’s exact test,98,0.7981540447517013
+Fisher’s exact test,99,0.5848172907161235
+Fisher’s exact test,100,0.306430731082737
+Fisher’s exact test,101,0.8974750703500698
+Fisher’s exact test,102,0.49829974377609415
+Fisher’s exact test,103,1.0
+Fisher’s exact test,104,0.21402657216504092
+Fisher’s exact test,105,0.5974395089509673
+Fisher’s exact test,106,1.0
+Fisher’s exact test,107,1.0
+Fisher’s exact test,108,0.15969547230000783
+Fisher’s exact test,109,0.20012449183575662
+Fisher’s exact test,110,0.8884242958101276
+Fisher’s exact test,111,0.1214026953733654
+Fisher’s exact test,112,0.1951720724002317
+Fisher’s exact test,113,0.48268108792436315
+Fisher’s exact test,114,0.6549775440072093
+Fisher’s exact test,115,0.16940123636123883
+Fisher’s exact test,116,0.3270482223869317
+Fisher’s exact test,117,0.8840338037930241
+Fisher’s exact test,118,0.19309365150422483
+Fisher’s exact test,119,0.32016839630861993
+Fisher’s exact test,120,0.5848172907161235
+Fisher’s exact test,121,1.0
+Fisher’s exact test,122,0.09391523420174462
+Fisher’s exact test,123,0.5182621175403992
+Fisher’s exact test,124,0.22220748787741165
+Fisher’s exact test,125,0.6404126233889162
+Fisher’s exact test,126,0.3270482223869317
+Fisher’s exact test,127,0.4742828546807537
+Fisher’s exact test,128,0.31608989661230946
+Fisher’s exact test,129,0.4742828546807537
+Fisher’s exact test,130,0.07109791380668815
+Fisher’s exact test,131,0.002758840392852195
+Fisher’s exact test,132,0.8763090105023293
+Fisher’s exact test,133,0.01044215329563043
+Fisher’s exact test,134,0.6479281944867422
+Fisher’s exact test,135,0.42031565460540604
+Fisher’s exact test,136,0.6793458716345893
+Fisher’s exact test,137,1.0
+Fisher’s exact test,138,0.8884242958101276
+Fisher’s exact test,139,0.8974750703500698
+Fisher’s exact test,140,0.3428114675219216
+Fisher’s exact test,141,1.0
+Fisher’s exact test,142,0.02675178639097137
+Fisher’s exact test,143,0.17853197261520226
+Fisher’s exact test,144,0.306430731082737
+Fisher’s exact test,145,0.49829974377609415
+Fisher’s exact test,146,0.12840582309182785
+Fisher’s exact test,147,0.7115496344625529
+Fisher’s exact test,148,0.6549775440072093
+Fisher’s exact test,149,0.21402657216504092
+Fisher’s exact test,150,0.1214026953733654
+Fisher’s exact test,151,0.3253576232659936
+Fisher’s exact test,152,0.8923354721848561
+Fisher’s exact test,153,0.8941373010263153
+Fisher’s exact test,154,1.0
+Fisher’s exact test,155,0.7809810251087685
+Fisher’s exact test,156,0.19693952447551916
+Fisher’s exact test,157,0.8884242958101276
+Fisher’s exact test,158,0.015099985500222703
+Fisher’s exact test,159,0.6089321320653238
+Fisher’s exact test,160,0.17884190792309212
+Fisher’s exact test,161,0.6846452294930797
+Fisher’s exact test,162,0.412225876563963
+Fisher’s exact test,163,0.8958480480593612
+Fisher’s exact test,164,1.0
+Fisher’s exact test,165,0.8904342673117316
+Fisher’s exact test,166,0.6033164301949603
+Fisher’s exact test,167,0.795055836503904
+Fisher’s exact test,168,0.6846452294930797
+Fisher’s exact test,169,0.7115496344625529
+Fisher’s exact test,170,1.0
+Fisher’s exact test,171,0.8701757456090107
+Fisher’s exact test,172,0.09391523420174462
+Fisher’s exact test,173,0.412225876563963
+Fisher’s exact test,174,0.1858970630678846
+Fisher’s exact test,175,1.0
+Fisher’s exact test,176,0.27389490772505876
+Fisher’s exact test,177,1.0
+Fisher’s exact test,178,0.5125367531069099
+Fisher’s exact test,179,0.8884242958101276
+Fisher’s exact test,180,0.013149158794105312
+Fisher’s exact test,181,0.6089321320653238
+Fisher’s exact test,182,0.8958480480593612
+Fisher’s exact test,183,0.2652360466709322
+Fisher’s exact test,184,0.22220748787741165
+Fisher’s exact test,185,0.17099620598127824
+Fisher’s exact test,186,0.03768496400947305
+Fisher’s exact test,187,0.7847815965051865
+Fisher’s exact test,188,1.0
+Fisher’s exact test,189,0.6944712299156055
+Fisher’s exact test,190,0.900503452266138
+Fisher’s exact test,191,0.027402495009765153
+Fisher’s exact test,192,0.8884242958101276
+Fisher’s exact test,193,0.7918033586850872
+Fisher’s exact test,194,0.03768496400947305
+Fisher’s exact test,195,0.8884242958101276
+Fisher’s exact test,196,0.2056062621134588
+Fisher’s exact test,197,0.49067651936039935
+Fisher’s exact test,198,0.879058401428823
+Fisher’s exact test,199,0.900503452266138
+Fisher’s exact test,200,0.795055836503904
+Fisher’s exact test,201,0.3130695463752149
+Fisher’s exact test,202,0.5284245322297887
+Fisher’s exact test,203,0.8039332735832733
+Fisher’s exact test,204,0.7918033586850872
+Fisher’s exact test,205,0.32016839630861993
+Fisher’s exact test,206,0.6793458716345893
+Fisher’s exact test,207,0.3253576232659936
+Fisher’s exact test,208,0.6846452294930797
+Fisher’s exact test,209,0.42807029097222543
+Fisher’s exact test,210,0.6737581508601311
+Fisher’s exact test,211,1.0
+Fisher’s exact test,212,1.0
+Fisher’s exact test,213,0.5633261427330926
+Fisher’s exact test,214,0.4495320269582484
+Fisher’s exact test,215,0.7847815965051865
+Fisher’s exact test,216,0.02050218500922689
+Fisher’s exact test,217,0.5974395089509673
+Fisher’s exact test,218,0.22737981092696644
+Fisher’s exact test,219,0.5055782381828365
+Fisher’s exact test,220,1.0
+Fisher’s exact test,221,0.3253576232659936
+Fisher’s exact test,222,0.49067651936039935
+Fisher’s exact test,223,1.0
+Fisher’s exact test,224,0.7075626200629762
+Fisher’s exact test,225,0.3253576232659936
+Fisher’s exact test,226,0.776963028239937
+Fisher’s exact test,227,0.05464442192549861
+Fisher’s exact test,228,1.0
+Fisher’s exact test,229,0.3879110614595508
+Fisher’s exact test,230,0.38569479816242486
+Fisher’s exact test,231,0.8011096902220849
+Fisher’s exact test,232,0.30574100575131136
+Fisher’s exact test,233,0.33425751230930795
+Fisher’s exact test,234,0.7981540447517013
+Fisher’s exact test,235,0.13074885331742028
+Fisher’s exact test,236,0.259784469104745
+Fisher’s exact test,237,0.17884190792309212
+Fisher’s exact test,238,0.1632883504920258
+Fisher’s exact test,239,0.09391523420174462
+Fisher’s exact test,240,0.2069927721793723
+Fisher’s exact test,241,0.33425751230930795
+Fisher’s exact test,242,1.0
+Fisher’s exact test,243,0.24538871208528007
+Fisher’s exact test,244,0.3253576232659936
+Fisher’s exact test,245,0.788383514294373
+Fisher’s exact test,246,0.1803954314952879
+Fisher’s exact test,247,0.689679980011228
+Fisher’s exact test,248,0.5633261427330926
+Fisher’s exact test,249,0.6404126233889162
+Fisher’s exact test,250,0.2469826807729712
+Fisher’s exact test,251,0.49067651936039935
+Fisher’s exact test,252,0.7847815965051865
+Fisher’s exact test,253,0.0823835187155068
+Fisher’s exact test,254,0.009991714721497123
+Fisher’s exact test,255,0.3130695463752149
+Fisher’s exact test,256,0.10001223449886101
+Fisher’s exact test,257,0.28226132136294946
+Fisher’s exact test,258,0.6549775440072093
+Fisher’s exact test,259,0.8884242958101276
+Fisher’s exact test,260,0.42031565460540604
+Fisher’s exact test,261,0.32016839630861993
+Fisher’s exact test,262,0.5125367531069099
+Fisher’s exact test,263,0.4463083621810154
+Fisher’s exact test,264,0.8884242958101276
+Fisher’s exact test,265,0.5553538353938984
+Fisher’s exact test,266,0.2652360466709322
+Fisher’s exact test,267,0.40377707099868193
+Fisher’s exact test,268,0.03068570347885397
+Fisher’s exact test,269,0.28226132136294946
+Fisher’s exact test,270,0.8941373010263153
+Fisher’s exact test,271,0.06284548406421635
+Fisher’s exact test,272,0.8884242958101276
+Fisher’s exact test,273,0.7809810251087685
+Fisher’s exact test,274,0.7918033586850872
+Fisher’s exact test,275,1.0
+Fisher’s exact test,276,0.1858970630678846
+Fisher’s exact test,277,0.3253576232659936
+Fisher’s exact test,278,1.0
+Fisher’s exact test,279,0.18801992066981552
+Fisher’s exact test,280,0.6737581508601311
+Fisher’s exact test,281,0.37600063168505293
+Fisher’s exact test,282,0.7075626200629762
+Fisher’s exact test,283,0.8941373010263153
+Fisher’s exact test,284,0.6404126233889162
+Fisher’s exact test,285,0.4355115725473524
+Fisher’s exact test,286,0.48268108792436315
+Fisher’s exact test,287,0.5191976464747567
+Fisher’s exact test,288,0.27389490772505876
+Fisher’s exact test,289,1.0
+Fisher’s exact test,290,0.900503452266138
+Fisher’s exact test,291,0.42031565460540604
+Fisher’s exact test,292,0.09275099902634608
+Fisher’s exact test,293,0.016108205871892527
+Fisher’s exact test,294,0.624388741905879
+Fisher’s exact test,295,0.0008951639096637895
+Fisher’s exact test,296,0.6944712299156055
+Fisher’s exact test,297,0.43591263083746606
+Fisher’s exact test,298,0.5255811695849608
+Fisher’s exact test,299,1.0
+Fisher’s exact test,300,0.5780234417095613
+Fisher’s exact test,301,0.8904342673117316
+Fisher’s exact test,302,0.8816270487464141
+Fisher’s exact test,303,0.2469826807729712
+Fisher’s exact test,304,0.08757765318360668
+Fisher’s exact test,305,0.3428114675219216
+Fisher’s exact test,306,0.7847815965051865
+Fisher’s exact test,307,0.879058401428823
+Fisher’s exact test,308,0.022332337135700712
+Fisher’s exact test,309,0.7336053107741396
+Fisher’s exact test,310,0.2562702995241467
+Fisher’s exact test,311,0.5125367531069099
+Fisher’s exact test,312,0.5780234417095613
+Fisher’s exact test,313,0.38569479816242486
+Fisher’s exact test,314,0.7115496344625529
+Fisher’s exact test,315,1.0
+Fisher’s exact test,316,0.27389490772505876
+Fisher’s exact test,317,0.22220748787741165
+Fisher’s exact test,318,0.5055782381828365
+Fisher’s exact test,319,0.61945230827299
+Fisher’s exact test,320,1.0
+Fisher’s exact test,321,0.3739528069430295
+Fisher’s exact test,322,0.03665023549224366
+Fisher’s exact test,323,0.6404126233889162
+Fisher’s exact test,324,1.0
+Fisher’s exact test,325,0.5708705015870249
+Fisher’s exact test,326,0.6678552200119252
+Fisher’s exact test,327,0.32016839630861993
+Fisher’s exact test,328,0.0033037786890249593
+Fisher’s exact test,329,0.8923354721848561
+Fisher’s exact test,330,1.0
+Fisher’s exact test,331,0.5780234417095613
+Fisher’s exact test,332,0.795055836503904
+Fisher’s exact test,333,0.7582403387090991
+Fisher’s exact test,334,1.0
+Fisher’s exact test,335,0.5912807731719152
+Fisher’s exact test,336,0.36582535345692985
+Fisher’s exact test,337,1.0
+Fisher’s exact test,338,1.0
+Fisher’s exact test,339,1.0
+Fisher’s exact test,340,0.6678552200119252
+Fisher’s exact test,341,0.33425751230930795
+Fisher’s exact test,342,0.4561461447372277
+Fisher’s exact test,343,0.1858970630678846
+Fisher’s exact test,344,0.2562702995241467
+Fisher’s exact test,345,1.0
+Fisher’s exact test,346,0.27389490772505876
+Fisher’s exact test,347,0.42807029097222543
+Fisher’s exact test,348,1.0
+Fisher’s exact test,349,0.8092211331916241
+Fisher’s exact test,350,0.3320026570072018
+Fisher’s exact test,351,0.6033164301949603
+Fisher’s exact test,352,0.13530349435670025
+Fisher’s exact test,353,0.5974395089509673
+Fisher’s exact test,354,1.0
+Fisher’s exact test,355,0.05643534865599921
+Fisher’s exact test,356,0.36659362931301953
+Fisher’s exact test,357,0.5469121230861224
+Fisher’s exact test,358,0.6089321320653238
+Fisher’s exact test,359,0.5780234417095613
+Fisher’s exact test,360,0.879058401428823
+Fisher’s exact test,361,0.7681863037950621
+Fisher’s exact test,362,1.0
+Fisher’s exact test,363,1.0
+Fisher’s exact test,364,0.21402657216504092
+Fisher’s exact test,365,0.5191976464747567
+Fisher’s exact test,366,0.6846452294930797
+Fisher’s exact test,367,0.7847815965051865
+Fisher’s exact test,368,0.059021064552144904
+Fisher’s exact test,369,0.2526873826021968
+Fisher’s exact test,370,0.4248949325816368
+Fisher’s exact test,371,1.0
+Fisher’s exact test,372,0.4355115725473524
+Fisher’s exact test,373,0.5848172907161235
+Fisher’s exact test,374,0.2652360466709322
+Fisher’s exact test,375,0.5589816245315178
+Fisher’s exact test,376,1.0
+Fisher’s exact test,377,1.0
+Fisher’s exact test,378,0.3510398054487436
+Fisher’s exact test,379,0.29635472572194566
+Fisher’s exact test,380,0.8941373010263153
+Fisher’s exact test,381,0.3551300856865347
+Fisher’s exact test,382,0.7847815965051865
+Fisher’s exact test,383,0.1296342462039112
+Fisher’s exact test,384,0.5848172907161235
+Fisher’s exact test,385,0.8840338037930241
+Fisher’s exact test,386,0.48268108792436315
+Fisher’s exact test,387,0.4495320269582484
+Fisher’s exact test,388,0.20012449183575662
+Fisher’s exact test,389,1.0
+Fisher’s exact test,390,0.3253576232659936
+Fisher’s exact test,391,0.40377707099868193
+Fisher’s exact test,392,0.2137019983438934
+Fisher’s exact test,393,0.900503452266138
+Fisher’s exact test,394,1.0
+Fisher’s exact test,395,1.0
+Fisher’s exact test,396,0.4355115725473524
+Fisher’s exact test,397,0.6678552200119252
+Fisher’s exact test,398,0.7847815965051865
+Fisher’s exact test,399,0.09391523420174462
+Fisher’s exact test,400,0.8701757456090107
+Fisher’s exact test,401,1.0
+Fisher’s exact test,402,0.8990249196512118
+Fisher’s exact test,403,0.3130695463752149
+Fisher’s exact test,404,0.3253576232659936
+Fisher’s exact test,405,0.8884242958101276
+Fisher’s exact test,406,1.0
+Fisher’s exact test,407,0.39494300186488795
+Fisher’s exact test,408,0.5912807731719152
+Fisher’s exact test,409,0.33425751230930795
+Fisher’s exact test,410,0.23735775834186618
+Fisher’s exact test,411,0.4495320269582484
+Fisher’s exact test,412,0.5255811695849608
+Fisher’s exact test,413,1.0
+Fisher’s exact test,414,0.5432433624035948
+Fisher’s exact test,415,0.27389490772505876
+Fisher’s exact test,416,0.8039332735832733
+Fisher’s exact test,417,0.7847815965051865
+Fisher’s exact test,418,0.6089321320653238
+Fisher’s exact test,419,0.8958480480593612
+Fisher’s exact test,420,0.12840582309182785
+Fisher’s exact test,421,0.1803954314952879
+Fisher’s exact test,422,0.42031565460540604
+Fisher’s exact test,423,0.3253576232659936
+Fisher’s exact test,424,1.0
+Fisher’s exact test,425,0.795055836503904
+Fisher’s exact test,426,0.5633261427330926
+Fisher’s exact test,427,0.08757765318360668
+Fisher’s exact test,428,1.0
+Fisher’s exact test,429,0.8629970169695573
+Fisher’s exact test,430,0.3589613674074836
+Fisher’s exact test,431,0.5191976464747567
+Fisher’s exact test,432,0.11798244967706527
+Fisher’s exact test,433,0.1632883504920258
+Fisher’s exact test,434,0.7727062554343271
+Fisher’s exact test,435,0.5974395089509673
+Fisher’s exact test,436,0.7918033586850872
+Fisher’s exact test,437,0.8990249196512118
+Fisher’s exact test,438,1.0
+Fisher’s exact test,439,1.0
+Fisher’s exact test,440,0.04112504703217168
+Fisher’s exact test,441,0.8816270487464141
+Fisher’s exact test,442,0.87335680395857
+Fisher’s exact test,443,1.0
+Fisher’s exact test,444,0.03756962701152401
+Fisher’s exact test,445,0.5539278838752884
+Fisher’s exact test,446,0.3879110614595508
+Fisher’s exact test,447,0.4355115725473524
+Fisher’s exact test,448,0.10710649121966989
+Fisher’s exact test,449,0.4463083621810154
+Fisher’s exact test,450,0.3810539553065037
+Fisher’s exact test,451,1.0
+Fisher’s exact test,452,1.0
+Fisher’s exact test,453,0.44265940876515464
+Fisher’s exact test,454,0.5974395089509673
+Fisher’s exact test,455,0.7847815965051865
+Fisher’s exact test,456,0.6793458716345893
+Fisher’s exact test,457,1.0
+Fisher’s exact test,458,0.16940123636123883
+Fisher’s exact test,459,1.0
+Fisher’s exact test,460,0.25130769685437304
+Fisher’s exact test,461,0.776963028239937
+Fisher’s exact test,462,0.5974395089509673
+Fisher’s exact test,463,0.10606070024065484
+Fisher’s exact test,464,0.8923354721848561
+Fisher’s exact test,465,0.14735594818488074
+Fisher’s exact test,466,0.33425751230930795
+Fisher’s exact test,467,1.0
+Fisher’s exact test,468,0.8941373010263153
+Fisher’s exact test,469,0.019745953672124075
+Fisher’s exact test,470,1.0
+Fisher’s exact test,471,0.8958480480593612
+Fisher’s exact test,472,0.8904342673117316
+Fisher’s exact test,473,0.703396556209737
+Fisher’s exact test,474,0.2056062621134588
+Fisher’s exact test,475,0.19693952447551916
+Fisher’s exact test,476,0.29817149861994097
+Fisher’s exact test,477,0.6404126233889162
+Fisher’s exact test,478,0.7727062554343271
+Fisher’s exact test,479,1.0
+Fisher’s exact test,480,0.06676435418732718
+Fisher’s exact test,481,0.5375880183267128
+Fisher’s exact test,482,0.343871767639605
+Fisher’s exact test,483,0.008775031141844407
+Fisher’s exact test,484,0.49829974377609415
+Fisher’s exact test,485,1.0
+Fisher’s exact test,486,0.6944712299156055
+Fisher’s exact test,487,0.879058401428823
+Fisher’s exact test,488,0.42807029097222543
+Fisher’s exact test,489,0.1214026953733654
+Fisher’s exact test,490,0.5848172907161235
+Fisher’s exact test,491,0.4742828546807537
+Fisher’s exact test,492,0.8941373010263153
+Fisher’s exact test,493,0.788383514294373
+Fisher’s exact test,494,0.7809810251087685
+Fisher’s exact test,495,1.0
+Fisher’s exact test,496,0.13913472371035246
+Fisher’s exact test,497,0.5912807731719152
+Fisher’s exact test,498,1.0
+Fisher’s exact test,499,0.28226132136294946
+G-test,0,0.16263953384683455
+G-test,1,0.31959187543714973
+G-test,2,0.4115359859803951
+G-test,3,0.49767832288907
+G-test,4,0.5842636383816057
+G-test,5,0.7112271812837005
+G-test,6,0.18726235387798235
+G-test,7,1.0
+G-test,8,0.6138697263273598
+G-test,9,0.776615803570219
+G-test,10,0.6732766395736549
+G-test,11,0.7463205509202624
+G-test,12,0.5546626169277116
+G-test,13,0.49767832288907
+G-test,14,0.6986673160852783
+G-test,15,1.0
+G-test,16,0.8788333825147946
+G-test,17,0.8037048705156523
+G-test,18,0.8861104089574767
+G-test,19,0.577439852002043
+G-test,20,0.020232535770407494
+G-test,21,0.7677930065521287
+G-test,22,0.1137046379084678
+G-test,23,0.11277852057884609
+G-test,24,0.2815772558310412
+G-test,25,0.2728582310193255
+G-test,26,0.8902706266335343
+G-test,27,0.19250517092928782
+G-test,28,0.6732766395736549
+G-test,29,0.6673449394075154
+G-test,30,0.3056025949684601
+G-test,31,1.0
+G-test,32,0.2623468152321662
+G-test,33,0.8090123012263346
+G-test,34,1.0
+G-test,35,0.8064159820191332
+G-test,36,0.20489356179107115
+G-test,37,0.8814170454955095
+G-test,38,0.6842139028686529
+G-test,39,0.2131558087934337
+G-test,40,0.17806106301582525
+G-test,41,0.18529384177914504
+G-test,42,0.7577900582944626
+G-test,43,0.5907546424990913
+G-test,44,0.8760671345284462
+G-test,45,0.8861104089574767
+G-test,46,0.6673449394075154
+G-test,47,0.06749070131281433
+G-test,48,1.0
+G-test,49,1.0
+G-test,50,0.09187282130866209
+G-test,51,0.4196559254265104
+G-test,52,1.0
+G-test,53,0.31529726301315747
+G-test,54,0.46468485764300427
+G-test,55,0.6732766395736549
+G-test,56,0.4274386826408112
+G-test,57,0.3996352148429879
+G-test,58,0.4735599485891461
+G-test,59,1.0
+G-test,60,0.3245982516875825
+G-test,61,0.22153699483688588
+G-test,62,0.3124736096107463
+G-test,63,0.45533082874598874
+G-test,64,0.022114880413786436
+G-test,65,0.5969387471546439
+G-test,66,0.1482185357297508
+G-test,67,0.23724979114740102
+G-test,68,1.0
+G-test,69,0.5049856243259052
+G-test,70,0.7030433014585683
+G-test,71,0.6892706340281315
+G-test,72,0.4115359859803951
+G-test,73,0.7030433014585683
+G-test,74,1.0
+G-test,75,0.8882507500400163
+G-test,76,1.0
+G-test,77,0.7806536275099889
+G-test,78,1.0
+G-test,79,0.38489999045090795
+G-test,80,0.16124133263362533
+G-test,81,1.0
+G-test,82,1.0
+G-test,83,0.46468485764300427
+G-test,84,0.8921808467795298
+G-test,85,0.5186565743783625
+G-test,86,0.23724979114740102
+G-test,87,1.0
+G-test,88,0.35831586060048415
+G-test,89,0.6732766395736549
+G-test,90,0.4819948085240914
+G-test,91,0.6673449394075154
+G-test,92,0.8939909087646882
+G-test,93,0.18726235387798235
+G-test,94,0.6544005545769835
+G-test,95,1.0
+G-test,96,0.89889938493801
+G-test,97,1.0
+G-test,98,0.7979029122783418
+G-test,99,0.5842636383816057
+G-test,100,0.3056025949684601
+G-test,101,0.8973431507360345
+G-test,102,0.49767832288907
+G-test,103,1.0
+G-test,104,0.21333532614912096
+G-test,105,0.5969387471546439
+G-test,106,1.0
+G-test,107,1.0
+G-test,108,0.15886699177902552
+G-test,109,0.19955044711316694
+G-test,110,0.8882507500400163
+G-test,111,0.12081595762876143
+G-test,112,0.1942126003726751
+G-test,113,0.4819948085240914
+G-test,114,0.6544005545769835
+G-test,115,0.16859669676904432
+G-test,116,0.32649018807353547
+G-test,117,0.8838372439128008
+G-test,118,0.19250517092928782
+G-test,119,0.31959187543714973
+G-test,120,0.5842636383816057
+G-test,121,1.0
+G-test,122,0.09340756790541853
+G-test,123,0.517367560602908
+G-test,124,0.22153699483688588
+G-test,125,0.6397533952488655
+G-test,126,0.32649018807353547
+G-test,127,0.4735599485891461
+G-test,128,0.31529726301315747
+G-test,129,0.4735599485891461
+G-test,130,0.07078554293131048
+G-test,131,0.0027102416988077855
+G-test,132,0.8760671345284462
+G-test,133,0.010301728339680833
+G-test,134,0.6473123233217812
+G-test,135,0.4196559254265104
+G-test,136,0.6788905765692042
+G-test,137,1.0
+G-test,138,0.8882507500400166
+G-test,139,0.8973431507360345
+G-test,140,0.34211256723933303
+G-test,141,1.0
+G-test,142,0.026575081855307214
+G-test,143,0.1779137441993573
+G-test,144,0.3056025949684601
+G-test,145,0.49767832288907
+G-test,146,0.12782848852287743
+G-test,147,0.7112271812837005
+G-test,148,0.6544005545769835
+G-test,149,0.21333532614912096
+G-test,150,0.12081595762876143
+G-test,151,0.3245982516875825
+G-test,152,0.89218084677953
+G-test,153,0.8939909087646882
+G-test,154,1.0
+G-test,155,0.7806536275099887
+G-test,156,0.19620469966963722
+G-test,157,0.8882507500400163
+G-test,158,0.014985729172788122
+G-test,159,0.6084765292360057
+G-test,160,0.17806106301582525
+G-test,161,0.6842139028686529
+G-test,162,0.4115359859803951
+G-test,163,0.8957091983266912
+G-test,164,1.0
+G-test,165,0.8902706266335346
+G-test,166,0.602839111850868
+G-test,167,0.7947919265786645
+G-test,168,0.6842139028686529
+G-test,169,0.7112271812837005
+G-test,170,1.0
+G-test,171,0.8698932256308316
+G-test,172,0.09340756790541853
+G-test,173,0.4115359859803951
+G-test,174,0.18529384177914504
+G-test,175,1.0
+G-test,176,0.273185881554608
+G-test,177,1.0
+G-test,178,0.5119708540355987
+G-test,179,0.8882507500400166
+G-test,180,0.013012314226480753
+G-test,181,0.6084765292360057
+G-test,182,0.8957091983266912
+G-test,183,0.26450076005517864
+G-test,184,0.22153699483688588
+G-test,185,0.17036275606969858
+G-test,186,0.037346506935870424
+G-test,187,0.7844722437014541
+G-test,188,1.0
+G-test,189,0.6940820993814163
+G-test,190,0.9003838152479098
+G-test,191,0.02713489058797346
+G-test,192,0.8882507500400166
+G-test,193,0.79152557965422
+G-test,194,0.037346506935870424
+G-test,195,0.8882507500400166
+G-test,196,0.20489356179107115
+G-test,197,0.4900239657872486
+G-test,198,0.8788333825147946
+G-test,199,0.9003838152479094
+G-test,200,0.7947919265786645
+G-test,201,0.3124736096107463
+G-test,202,0.5275891948677114
+G-test,203,0.8037048705156526
+G-test,204,0.79152557965422
+G-test,205,0.31959187543714973
+G-test,206,0.6788905765692042
+G-test,207,0.3245982516875825
+G-test,208,0.6842139028686529
+G-test,209,0.4274386826408112
+G-test,210,0.6732766395736549
+G-test,211,1.0
+G-test,212,1.0
+G-test,213,0.5626741578299455
+G-test,214,0.4489742698276725
+G-test,215,0.7844722437014541
+G-test,216,0.020339834813226133
+G-test,217,0.596938747154644
+G-test,218,0.2265253371998061
+G-test,219,0.5049856243259052
+G-test,220,1.0
+G-test,221,0.3245982516875825
+G-test,222,0.4900239657872486
+G-test,223,1.0
+G-test,224,0.7072253352860178
+G-test,225,0.3245982516875825
+G-test,226,0.776615803570219
+G-test,227,0.05428462083603334
+G-test,228,1.0
+G-test,229,0.3873550615913124
+G-test,230,0.38489999045090795
+G-test,231,0.8008703597681398
+G-test,232,0.30512466710083824
+G-test,233,0.3335293325215414
+G-test,234,0.7979029122783414
+G-test,235,0.13003937777767144
+G-test,236,0.259207050017155
+G-test,237,0.17806106301582525
+G-test,238,0.16263953384683455
+G-test,239,0.09340756790541853
+G-test,240,0.20643283081291286
+G-test,241,0.3335293325215414
+G-test,242,1.0
+G-test,243,0.24477617575005176
+G-test,244,0.3245982516875825
+G-test,245,0.78809063987674
+G-test,246,0.179899817163253
+G-test,247,0.6892706340281315
+G-test,248,0.5626741578299455
+G-test,249,0.6397533952488655
+G-test,250,0.24619072975000827
+G-test,251,0.4900239657872486
+G-test,252,0.7844722437014541
+G-test,253,0.08195401708455206
+G-test,254,0.009870470311401942
+G-test,255,0.3124736096107463
+G-test,256,0.09950891587989402
+G-test,257,0.2815772558310412
+G-test,258,0.6544005545769835
+G-test,259,0.8882507500400163
+G-test,260,0.4196559254265104
+G-test,261,0.31959187543714973
+G-test,262,0.5119708540355987
+G-test,263,0.44545432066487034
+G-test,264,0.8882507500400163
+G-test,265,0.5546626169277113
+G-test,266,0.26450076005517864
+G-test,267,0.4030547728570689
+G-test,268,0.030446446411181778
+G-test,269,0.2815772558310412
+G-test,270,0.8939909087646886
+G-test,271,0.062224499954735425
+G-test,272,0.8882507500400166
+G-test,273,0.7806536275099887
+G-test,274,0.79152557965422
+G-test,275,1.0
+G-test,276,0.18529384177914504
+G-test,277,0.3245982516875825
+G-test,278,1.0
+G-test,279,0.18726235387798235
+G-test,280,0.6732766395736549
+G-test,281,0.3751651653948844
+G-test,282,0.7072253352860178
+G-test,283,0.8939909087646882
+G-test,284,0.6397533952488655
+G-test,285,0.4349062273944454
+G-test,286,0.4819948085240914
+G-test,287,0.5186565743783625
+G-test,288,0.273185881554608
+G-test,289,1.0
+G-test,290,0.9003838152479094
+G-test,291,0.4196559254265104
+G-test,292,0.09232597116171573
+G-test,293,0.015939432137365154
+G-test,294,0.623989536758127
+G-test,295,0.000880501816691998
+G-test,296,0.6940820993814163
+G-test,297,0.43500617713829126
+G-test,298,0.5250632163412808
+G-test,299,1.0
+G-test,300,0.577439852002043
+G-test,301,0.8902706266335346
+G-test,302,0.8814170454955098
+G-test,303,0.24619072975000827
+G-test,304,0.08715008114610188
+G-test,305,0.34211256723933303
+G-test,306,0.7844722437014541
+G-test,307,0.8788333825147946
+G-test,308,0.022114880413786436
+G-test,309,0.7329903384125989
+G-test,310,0.2555073904219549
+G-test,311,0.5119708540355987
+G-test,312,0.577439852002043
+G-test,313,0.38489999045090795
+G-test,314,0.7112271812837005
+G-test,315,1.0
+G-test,316,0.273185881554608
+G-test,317,0.22153699483688588
+G-test,318,0.5049856243259052
+G-test,319,0.619035620308527
+G-test,320,1.0
+G-test,321,0.3733546453173926
+G-test,322,0.03640042831951685
+G-test,323,0.6397533952488655
+G-test,324,1.0
+G-test,325,0.5702542532867403
+G-test,326,0.6673449394075154
+G-test,327,0.31959187543714995
+G-test,328,0.00324333932082687
+G-test,329,0.89218084677953
+G-test,330,1.0
+G-test,331,0.577439852002043
+G-test,332,0.7947919265786645
+G-test,333,0.7577900582944626
+G-test,334,1.0
+G-test,335,0.5907546424990913
+G-test,336,0.36494586021233577
+G-test,337,1.0
+G-test,338,1.0
+G-test,339,1.0
+G-test,340,0.6673449394075154
+G-test,341,0.3335293325215414
+G-test,342,0.4556099883973963
+G-test,343,0.18529384177914504
+G-test,344,0.2555073904219549
+G-test,345,1.0
+G-test,346,0.273185881554608
+G-test,347,0.4274386826408112
+G-test,348,1.0
+G-test,349,0.8090123012263346
+G-test,350,0.3309668343559535
+G-test,351,0.602839111850868
+G-test,352,0.13473596251689776
+G-test,353,0.596938747154644
+G-test,354,1.0
+G-test,355,0.05600968089357501
+G-test,356,0.36597249350621175
+G-test,357,0.5461776792951134
+G-test,358,0.6084765292360057
+G-test,359,0.577439852002043
+G-test,360,0.8788333825147946
+G-test,361,0.7677930065521287
+G-test,362,1.0
+G-test,363,1.0
+G-test,364,0.21333532614912096
+G-test,365,0.5186565743783625
+G-test,366,0.6842139028686529
+G-test,367,0.7844722437014541
+G-test,368,0.058658714904120175
+G-test,369,0.252092747525129
+G-test,370,0.42393069391553573
+G-test,371,1.0
+G-test,372,0.4349062273944454
+G-test,373,0.5842636383816053
+G-test,374,0.26450076005517864
+G-test,375,0.5585742389206395
+G-test,376,1.0
+G-test,377,1.0
+G-test,378,0.35036841814512154
+G-test,379,0.29548866444021193
+G-test,380,0.8939909087646886
+G-test,381,0.3542028188609039
+G-test,382,0.7844722437014541
+G-test,383,0.12916072411846538
+G-test,384,0.5842636383816057
+G-test,385,0.8838372439128008
+G-test,386,0.4819948085240914
+G-test,387,0.4489742698276725
+G-test,388,0.19955044711316694
+G-test,389,1.0
+G-test,390,0.3245982516875825
+G-test,391,0.4030547728570689
+G-test,392,0.2131558087934337
+G-test,393,0.9003838152479098
+G-test,394,1.0
+G-test,395,1.0
+G-test,396,0.4349062273944454
+G-test,397,0.6673449394075154
+G-test,398,0.7844722437014541
+G-test,399,0.09340756790541853
+G-test,400,0.8698932256308316
+G-test,401,1.0
+G-test,402,0.89889938493801
+G-test,403,0.3124736096107463
+G-test,404,0.3245982516875825
+G-test,405,0.8882507500400163
+G-test,406,1.0
+G-test,407,0.39418581844358747
+G-test,408,0.5907546424990908
+G-test,409,0.3335293325215414
+G-test,410,0.2365352972751591
+G-test,411,0.4489742698276725
+G-test,412,0.5250632163412808
+G-test,413,1.0
+G-test,414,0.542786012884646
+G-test,415,0.2731858815546079
+G-test,416,0.8037048705156526
+G-test,417,0.7844722437014541
+G-test,418,0.6084765292360057
+G-test,419,0.8957091983266912
+G-test,420,0.12782848852287743
+G-test,421,0.179899817163253
+G-test,422,0.4196559254265104
+G-test,423,0.3245982516875825
+G-test,424,1.0
+G-test,425,0.7947919265786645
+G-test,426,0.5626741578299455
+G-test,427,0.08715008114610188
+G-test,428,1.0
+G-test,429,0.8626613019233235
+G-test,430,0.35831586060048415
+G-test,431,0.5186565743783625
+G-test,432,0.11749582633427888
+G-test,433,0.16263953384683455
+G-test,434,0.772337165788965
+G-test,435,0.596938747154644
+G-test,436,0.79152557965422
+G-test,437,0.89889938493801
+G-test,438,1.0
+G-test,439,1.0
+G-test,440,0.04082947133477448
+G-test,441,0.8814170454955098
+G-test,442,0.873095898264725
+G-test,443,1.0
+G-test,444,0.03727946142283065
+G-test,445,0.5535048600151184
+G-test,446,0.3873550615913124
+G-test,447,0.4349062273944454
+G-test,448,0.10650277249986015
+G-test,449,0.44545432066487034
+G-test,450,0.3804774741940343
+G-test,451,1.0
+G-test,452,1.0
+G-test,453,0.44207863214204934
+G-test,454,0.596938747154644
+G-test,455,0.7844722437014541
+G-test,456,0.6788905765692042
+G-test,457,1.0
+G-test,458,0.16859669676904432
+G-test,459,1.0
+G-test,460,0.2502617710353616
+G-test,461,0.776615803570219
+G-test,462,0.596938747154644
+G-test,463,0.1055624213327172
+G-test,464,0.89218084677953
+G-test,465,0.1466763517534106
+G-test,466,0.3335293325215414
+G-test,467,1.0
+G-test,468,0.8939909087646886
+G-test,469,0.01953755901136881
+G-test,470,1.0
+G-test,471,0.8957091983266912
+G-test,472,0.8902706266335346
+G-test,473,0.7030433014585683
+G-test,474,0.20489356179107115
+G-test,475,0.19620469966963722
+G-test,476,0.29753371270878887
+G-test,477,0.6397533952488655
+G-test,478,0.772337165788965
+G-test,479,1.0
+G-test,480,0.06633388569159983
+G-test,481,0.5371117940479954
+G-test,482,0.3428925523981611
+G-test,483,0.008684816404572391
+G-test,484,0.49767832288907
+G-test,485,1.0
+G-test,486,0.6940820993814163
+G-test,487,0.8788333825147946
+G-test,488,0.4274386826408112
+G-test,489,0.12081595762876143
+G-test,490,0.5842636383816053
+G-test,491,0.4735599485891461
+G-test,492,0.8939909087646882
+G-test,493,0.78809063987674
+G-test,494,0.7806536275099889
+G-test,495,1.0
+G-test,496,0.13843998335119184
+G-test,497,0.5907546424990913
+G-test,498,1.0
+G-test,499,0.2815772558310412
+Poisson means test,0,0.13243939515739261
+Poisson means test,1,0.2753525121573655
+Poisson means test,2,0.3506279079382318
+Poisson means test,3,0.42825735993267017
+Poisson means test,4,0.5067545252440327
+Poisson means test,5,0.633885316191821
+Poisson means test,6,0.1509739167605045
+Poisson means test,7,0.9004570368552004
+Poisson means test,8,0.540955796991535
+Poisson means test,9,0.6831813549656611
+Poisson means test,10,0.5868416017717786
+Poisson means test,11,0.6418713504431606
+Poisson means test,12,0.4734002156770898
+Poisson means test,13,0.42825735993267017
+Poisson means test,14,0.6181843222942686
+Poisson means test,15,0.9999999999722166
+Poisson means test,16,0.7739482483930236
+Poisson means test,17,0.7209091723324037
+Poisson means test,18,0.7870134829751171
+Poisson means test,19,0.49889853893115904
+Poisson means test,20,0.01599821378948546
+Poisson means test,21,0.6710565998654044
+Poisson means test,22,0.09088960444590129
+Poisson means test,23,0.08703779273551696
+Poisson means test,24,0.23733267901352179
+Poisson means test,25,0.2343257260751186
+Poisson means test,26,0.7945438383532535
+Poisson means test,27,0.16228232021609326
+Poisson means test,28,0.5868416017717786
+Poisson means test,29,0.5795542498885049
+Poisson means test,30,0.2518284578993877
+Poisson means test,31,0.9999999999722166
+Poisson means test,32,0.20954925866452143
+Poisson means test,33,0.7283931899721158
+Poisson means test,34,0.9051637256229131
+Poisson means test,35,0.724728210946548
+Poisson means test,36,0.16780133479419543
+Poisson means test,37,0.778571689517411
+Poisson means test,38,0.6002811572326782
+Poisson means test,39,0.1808562978048029
+Poisson means test,40,0.1444919141630887
+Poisson means test,41,0.15142115803727882
+Poisson means test,42,0.6574041344440801
+Poisson means test,43,0.5143074747520733
+Poisson means test,44,0.7690163931479199
+Poisson means test,45,0.7870134829751171
+Poisson means test,46,0.5795542498885049
+Poisson means test,47,0.05512500156946132
+Poisson means test,48,0.8906922143064026
+Poisson means test,49,0.999999999959895
+Poisson means test,50,0.07110600369132382
+Poisson means test,51,0.358709372752949
+Poisson means test,52,1.00000000000001
+Poisson means test,53,0.2627397615281942
+Poisson means test,54,0.3934527534608595
+Poisson means test,55,0.5868416017717786
+Poisson means test,56,0.36700811145049445
+Poisson means test,57,0.32340774764927177
+Poisson means test,58,0.4021394936509177
+Poisson means test,59,0.9051637256229133
+Poisson means test,60,0.2721974871672139
+Poisson means test,61,0.1853606481054577
+Poisson means test,62,0.26804497338516564
+Poisson means test,63,0.382864564783216
+Poisson means test,64,0.017124003818979612
+Poisson means test,65,0.5213027660347669
+Poisson means test,66,0.12257902789719578
+Poisson means test,67,0.1990348542072955
+Poisson means test,68,0.9004570368552004
+Poisson means test,69,0.4363162021942749
+Poisson means test,70,0.6236449889160203
+Poisson means test,71,0.6065165488835262
+Poisson means test,72,0.3506279079382318
+Poisson means test,73,0.6236449889160203
+Poisson means test,74,0.9021053287918445
+Poisson means test,75,0.7908820279785574
+Poisson means test,76,0.9021053287918445
+Poisson means test,77,0.6887562264224122
+Poisson means test,78,0.9999999999847485
+Poisson means test,79,0.3234068542250823
+Poisson means test,80,0.13630851341674521
+Poisson means test,81,0.9036720268633978
+Poisson means test,82,0.909244442917027
+Poisson means test,83,0.3934527534608595
+Poisson means test,84,0.7980168185169025
+Poisson means test,85,0.45171504126574297
+Poisson means test,86,0.1990348542072955
+Poisson means test,87,0.892883000826752
+Poisson means test,88,0.3061802314296673
+Poisson means test,89,0.5868416017717786
+Poisson means test,90,0.41134297217152643
+Poisson means test,91,0.5795542498885049
+Poisson means test,92,0.8013167653592442
+Poisson means test,93,0.1509739167605045
+Poisson means test,94,0.5522309316087008
+Poisson means test,95,0.9065862922127209
+Poisson means test,96,0.8103109021496463
+Poisson means test,97,0.9021053287918445
+Poisson means test,98,0.7127632318035567
+Poisson means test,99,0.5067545252440327
+Poisson means test,100,0.2518284578993877
+Poisson means test,101,0.8074520148324532
+Poisson means test,102,0.42825735993267017
+Poisson means test,103,0.8831754054523623
+Poisson means test,104,0.17736666812181145
+Poisson means test,105,0.5213027660347669
+Poisson means test,106,0.8968849012166291
+Poisson means test,107,0.9999999998947533
+Poisson means test,108,0.1249086479898496
+Poisson means test,109,0.16921548668757302
+Poisson means test,110,0.7908820279785574
+Poisson means test,111,0.09877438076751884
+Poisson means test,112,0.15426793935464198
+Poisson means test,113,0.41134297217152643
+Poisson means test,114,0.5522309316087008
+Poisson means test,115,0.13568027009355066
+Poisson means test,116,0.2824876143657469
+Poisson means test,117,0.7829178153398298
+Poisson means test,118,0.16228232021609326
+Poisson means test,119,0.2753525121573655
+Poisson means test,120,0.5067545252440327
+Poisson means test,121,0.907944965890333
+Poisson means test,122,0.074855891786044
+Poisson means test,123,0.4318607054363723
+Poisson means test,124,0.1853606481054577
+Poisson means test,125,0.5461893016834904
+Poisson means test,126,0.2824876143657469
+Poisson means test,127,0.4021394936509177
+Poisson means test,128,0.2627397615281942
+Poisson means test,129,0.4021394936509177
+Poisson means test,130,0.060542009497502505
+Poisson means test,131,0.0019576402775643613
+Poisson means test,132,0.7690163931479199
+Poisson means test,133,0.008011259608571263
+Poisson means test,134,0.5551912309049991
+Poisson means test,135,0.358709372752949
+Poisson means test,136,0.5937054381628731
+Poisson means test,137,0.9021053287918445
+Poisson means test,138,0.7908820279785574
+Poisson means test,139,0.8074520148324532
+Poisson means test,140,0.2885906160185532
+Poisson means test,141,0.8906922143064026
+Poisson means test,142,0.022095832006822132
+Poisson means test,143,0.14692811497143726
+Poisson means test,144,0.2518284578993877
+Poisson means test,145,0.42825735993267017
+Poisson means test,146,0.10508134338498308
+Poisson means test,147,0.633885316191821
+Poisson means test,148,0.5522309316087008
+Poisson means test,149,0.17736666812181145
+Poisson means test,150,0.09877438076751884
+Poisson means test,151,0.2721974871672139
+Poisson means test,152,0.7980168185169025
+Poisson means test,153,0.8013167653592442
+Poisson means test,154,0.8968849012166291
+Poisson means test,155,0.6887562264224122
+Poisson means test,156,0.15959582296379984
+Poisson means test,157,0.7908820279785574
+Poisson means test,158,0.012563408143430972
+Poisson means test,159,0.5347631616916031
+Poisson means test,160,0.1444919141630887
+Poisson means test,161,0.6002811572326782
+Poisson means test,162,0.3506279079382318
+Poisson means test,163,0.8044576782916104
+Poisson means test,164,0.9004570368552004
+Poisson means test,165,0.7945438383532535
+Poisson means test,166,0.5281570971379956
+Poisson means test,167,0.7084103931649801
+Poisson means test,168,0.6002811572326782
+Poisson means test,169,0.633885316191821
+Poisson means test,170,0.9051637256229133
+Poisson means test,171,0.7580761913468798
+Poisson means test,172,0.074855891786044
+Poisson means test,173,0.3506279079382318
+Poisson means test,174,0.15142115803727882
+Poisson means test,175,0.9128279190001852
+Poisson means test,176,0.22784773696928376
+Poisson means test,177,0.9065862922127209
+Poisson means test,178,0.44426426460336815
+Poisson means test,179,0.7908820279785574
+Poisson means test,180,0.010160696211651924
+Poisson means test,181,0.5347631616916031
+Poisson means test,182,0.8044576782916104
+Poisson means test,183,0.21919071009798768
+Poisson means test,184,0.1853606481054577
+Poisson means test,185,0.13961348658411452
+Poisson means test,186,0.02873698814408849
+Poisson means test,187,0.6940444571711942
+Poisson means test,188,0.8883559483315233
+Poisson means test,189,0.6124910591971348
+Poisson means test,190,0.8130443158633498
+Poisson means test,191,0.020780865920980544
+Poisson means test,192,0.7908820279785574
+Poisson means test,193,0.7038513331565368
+Poisson means test,194,0.02873698814408849
+Poisson means test,195,0.7908820279785574
+Poisson means test,196,0.16780133479419543
+Poisson means test,197,0.4204563527865662
+Poisson means test,198,0.7739482483930236
+Poisson means test,199,0.8130443158633498
+Poisson means test,200,0.7084103931649801
+Poisson means test,201,0.26804497338516564
+Poisson means test,202,0.443358407619282
+Poisson means test,203,0.7209091723324037
+Poisson means test,204,0.7038513331565368
+Poisson means test,205,0.2753525121573655
+Poisson means test,206,0.5937054381628731
+Poisson means test,207,0.2721974871672139
+Poisson means test,208,0.6002811572326782
+Poisson means test,209,0.36700811145049445
+Poisson means test,210,0.5868416017717786
+Poisson means test,211,0.9004570368552004
+Poisson means test,212,0.999999999959895
+Poisson means test,213,0.4821705919099226
+Poisson means test,214,0.38979627755640467
+Poisson means test,215,0.6940444571711942
+Poisson means test,216,0.016426485993519962
+Poisson means test,217,0.5213027660347669
+Poisson means test,218,0.18258047195057459
+Poisson means test,219,0.4363162021942749
+Poisson means test,220,0.9021053287918445
+Poisson means test,221,0.2721974871672139
+Poisson means test,222,0.4204563527865662
+Poisson means test,223,0.9004570368552004
+Poisson means test,224,0.6288766836962473
+Poisson means test,225,0.2721974871672139
+Poisson means test,226,0.6831813549656611
+Poisson means test,227,0.04177103813227187
+Poisson means test,228,1.0000000000000004
+Poisson means test,229,0.33608508050867564
+Poisson means test,230,0.3234068542250823
+Poisson means test,231,0.7169249771929428
+Poisson means test,232,0.25968808529167714
+Poisson means test,233,0.28137505663234796
+Poisson means test,234,0.7127632318035567
+Poisson means test,235,0.10239623534075748
+Poisson means test,236,0.22202576821390763
+Poisson means test,237,0.1444919141630887
+Poisson means test,238,0.13243939515739261
+Poisson means test,239,0.074855891786044
+Poisson means test,240,0.17428063867612562
+Poisson means test,241,0.28137505663234796
+Poisson means test,242,0.909244442917027
+Poisson means test,243,0.20749652913756772
+Poisson means test,244,0.2721974871672139
+Poisson means test,245,0.6990687834047822
+Poisson means test,246,0.15295497709858835
+Poisson means test,247,0.6065165488835262
+Poisson means test,248,0.4821705919099226
+Poisson means test,249,0.5461893016834904
+Poisson means test,250,0.20311125408535013
+Poisson means test,251,0.4204563527865662
+Poisson means test,252,0.6940444571711942
+Poisson means test,253,0.0665904523772005
+Poisson means test,254,0.0074569119956459234
+Poisson means test,255,0.26804497338516564
+Poisson means test,256,0.0806236129260085
+Poisson means test,257,0.23733267901352179
+Poisson means test,258,0.5522309316087008
+Poisson means test,259,0.7908820279785574
+Poisson means test,260,0.358709372752949
+Poisson means test,261,0.2753525121573655
+Poisson means test,262,0.44426426460336815
+Poisson means test,263,0.37222083243310555
+Poisson means test,264,0.7908820279785574
+Poisson means test,265,0.4734002156770898
+Poisson means test,266,0.21919071009798768
+Poisson means test,267,0.3416409322194498
+Poisson means test,268,0.024279987940595285
+Poisson means test,269,0.23733267901352179
+Poisson means test,270,0.8013167653592442
+Poisson means test,271,0.04578525026326204
+Poisson means test,272,0.7908820279785574
+Poisson means test,273,0.6887562264224122
+Poisson means test,274,0.7038513331565368
+Poisson means test,275,0.9999999999999992
+Poisson means test,276,0.15142115803727882
+Poisson means test,277,0.2721974871672139
+Poisson means test,278,0.907944965890333
+Poisson means test,279,0.1509739167605045
+Poisson means test,280,0.5868416017717786
+Poisson means test,281,0.3132205355443422
+Poisson means test,282,0.6288766836962473
+Poisson means test,283,0.8013167653592442
+Poisson means test,284,0.5461893016834904
+Poisson means test,285,0.37500999162425896
+Poisson means test,286,0.41134297217152643
+Poisson means test,287,0.45171504126574297
+Poisson means test,288,0.22784773696928376
+Poisson means test,289,0.9004570368552004
+Poisson means test,290,0.8130443158633498
+Poisson means test,291,0.358709372752949
+Poisson means test,292,0.07708521877473755
+Poisson means test,293,0.012294296680738802
+Poisson means test,294,0.5528468811011131
+Poisson means test,295,0.0006820516161507878
+Poisson means test,296,0.6124910591971348
+Poisson means test,297,0.3625307948680402
+Poisson means test,298,0.4585589774465303
+Poisson means test,299,0.9999999999245051
+Poisson means test,300,0.49889853893115904
+Poisson means test,301,0.7945438383532535
+Poisson means test,302,0.778571689517411
+Poisson means test,303,0.20311125408535013
+Poisson means test,304,0.07155377846628136
+Poisson means test,305,0.2885906160185532
+Poisson means test,306,0.6940444571711942
+Poisson means test,307,0.7739482483930236
+Poisson means test,308,0.017124003818979612
+Poisson means test,309,0.6239811576155821
+Poisson means test,310,0.2122737230036678
+Poisson means test,311,0.44426426460336815
+Poisson means test,312,0.49889853893115904
+Poisson means test,313,0.3234068542250823
+Poisson means test,314,0.633885316191821
+Poisson means test,315,0.9036720268633978
+Poisson means test,316,0.22784773696928376
+Poisson means test,317,0.1853606481054577
+Poisson means test,318,0.4363162021942749
+Poisson means test,319,0.5470265598572603
+Poisson means test,320,0.8987197076904881
+Poisson means test,321,0.322520617494235
+Poisson means test,322,0.03019271337028022
+Poisson means test,323,0.5461893016834904
+Poisson means test,324,0.907944965890333
+Poisson means test,325,0.49084885066774836
+Poisson means test,326,0.5795542498885049
+Poisson means test,327,0.2753525121573655
+Poisson means test,328,0.0023016454658784675
+Poisson means test,329,0.7980168185169025
+Poisson means test,330,0.9036720268633978
+Poisson means test,331,0.49889853893115904
+Poisson means test,332,0.7084103931649801
+Poisson means test,333,0.6574041344440801
+Poisson means test,334,0.8987197076904881
+Poisson means test,335,0.5143074747520733
+Poisson means test,336,0.3025840583878546
+Poisson means test,337,0.9999999999245051
+Poisson means test,338,0.8949430025656955
+Poisson means test,339,0.9999999999847485
+Poisson means test,340,0.5795542498885049
+Poisson means test,341,0.28137505663234796
+Poisson means test,342,0.396970857739285
+Poisson means test,343,0.15142115803727882
+Poisson means test,344,0.2122737230036678
+Poisson means test,345,0.8968849012166291
+Poisson means test,346,0.22784773696928376
+Poisson means test,347,0.36700811145049445
+Poisson means test,348,0.8883559483315233
+Poisson means test,349,0.7283931899721158
+Poisson means test,350,0.2690119627926654
+Poisson means test,351,0.5281570971379956
+Poisson means test,352,0.1117338392339367
+Poisson means test,353,0.5213027660347669
+Poisson means test,354,0.9999999998864918
+Poisson means test,355,0.0445310218845895
+Poisson means test,356,0.30804120538818497
+Poisson means test,357,0.46373932136489676
+Poisson means test,358,0.5347631616916031
+Poisson means test,359,0.49889853893115904
+Poisson means test,360,0.7739482483930236
+Poisson means test,361,0.6710565998654044
+Poisson means test,362,0.9999999998947533
+Poisson means test,363,0.9004570368552004
+Poisson means test,364,0.17736666812181145
+Poisson means test,365,0.45171504126574297
+Poisson means test,366,0.6002811572326782
+Poisson means test,367,0.6940444571711942
+Poisson means test,368,0.04708260824545566
+Poisson means test,369,0.21485018635240594
+Poisson means test,370,0.35003217892253297
+Poisson means test,371,0.9999999999847485
+Poisson means test,372,0.37500999162425896
+Poisson means test,373,0.5067545252440327
+Poisson means test,374,0.21919071009798768
+Poisson means test,375,0.4959752997392198
+Poisson means test,376,0.8858570604832015
+Poisson means test,377,0.9051637256229133
+Poisson means test,378,0.29793023113493305
+Poisson means test,379,0.24384995012110638
+Poisson means test,380,0.8013167653592442
+Poisson means test,381,0.29149956887674644
+Poisson means test,382,0.6940444571711942
+Poisson means test,383,0.10782961922782511
+Poisson means test,384,0.5067545252440327
+Poisson means test,385,0.7829178153398298
+Poisson means test,386,0.41134297217152643
+Poisson means test,387,0.38979627755640467
+Poisson means test,388,0.16921548668757302
+Poisson means test,389,0.9021053287918445
+Poisson means test,390,0.2721974871672139
+Poisson means test,391,0.3416409322194498
+Poisson means test,392,0.1808562978048029
+Poisson means test,393,0.8130443158633498
+Poisson means test,394,0.9999999999897906
+Poisson means test,395,0.8949430025656955
+Poisson means test,396,0.37500999162425896
+Poisson means test,397,0.5795542498885049
+Poisson means test,398,0.6940444571711942
+Poisson means test,399,0.074855891786044
+Poisson means test,400,0.7580761913468798
+Poisson means test,401,0.9999999999897906
+Poisson means test,402,0.8103109021496463
+Poisson means test,403,0.26804497338516564
+Poisson means test,404,0.2721974871672139
+Poisson means test,405,0.7908820279785574
+Poisson means test,406,0.9999999999754668
+Poisson means test,407,0.332284897476664
+Poisson means test,408,0.5143074747520733
+Poisson means test,409,0.28137505663234796
+Poisson means test,410,0.19356951919792215
+Poisson means test,411,0.38979627755640467
+Poisson means test,412,0.4585589774465303
+Poisson means test,413,0.8968849012166291
+Poisson means test,414,0.47825373934620347
+Poisson means test,415,0.22784773696928376
+Poisson means test,416,0.7209091723324037
+Poisson means test,417,0.6940444571711942
+Poisson means test,418,0.5347631616916031
+Poisson means test,419,0.8044576782916104
+Poisson means test,420,0.10508134338498308
+Poisson means test,421,0.15295497709858835
+Poisson means test,422,0.358709372752949
+Poisson means test,423,0.2721974871672139
+Poisson means test,424,0.9999999998947533
+Poisson means test,425,0.7084103931649801
+Poisson means test,426,0.4821705919099226
+Poisson means test,427,0.07155377846628136
+Poisson means test,428,0.9021053287918445
+Poisson means test,429,0.7453761687614006
+Poisson means test,430,0.3061802314296673
+Poisson means test,431,0.45171504126574297
+Poisson means test,432,0.09696123749483933
+Poisson means test,433,0.13243939515739261
+Poisson means test,434,0.6772909565969242
+Poisson means test,435,0.5213027660347669
+Poisson means test,436,0.7038513331565368
+Poisson means test,437,0.8103109021496463
+Poisson means test,438,0.8883559483315233
+Poisson means test,439,0.9104889472946299
+Poisson means test,440,0.033269130770640296
+Poisson means test,441,0.778571689517411
+Poisson means test,442,0.7637398865361021
+Poisson means test,443,0.907944965890333
+Poisson means test,444,0.029472587542133107
+Poisson means test,445,0.4903541154212919
+Poisson means test,446,0.33608508050867564
+Poisson means test,447,0.37500999162425896
+Poisson means test,448,0.08416608772376809
+Poisson means test,449,0.37222083243310555
+Poisson means test,450,0.32883042988097905
+Poisson means test,451,0.907944965890333
+Poisson means test,452,0.999999999959895
+Poisson means test,453,0.3831114060397882
+Poisson means test,454,0.5213027660347669
+Poisson means test,455,0.6940444571711942
+Poisson means test,456,0.5937054381628731
+Poisson means test,457,0.907944965890333
+Poisson means test,458,0.13568027009355066
+Poisson means test,459,0.8987197076904881
+Poisson means test,460,0.2007380044551974
+Poisson means test,461,0.6831813549656611
+Poisson means test,462,0.5213027660347669
+Poisson means test,463,0.08453537184710946
+Poisson means test,464,0.7980168185169025
+Poisson means test,465,0.1192050670975466
+Poisson means test,466,0.28137505663234796
+Poisson means test,467,0.9065862922127209
+Poisson means test,468,0.8013167653592442
+Poisson means test,469,0.014889670027327115
+Poisson means test,470,0.8987197076904881
+Poisson means test,471,0.8044576782916104
+Poisson means test,472,0.7945438383532535
+Poisson means test,473,0.6236449889160203
+Poisson means test,474,0.16780133479419543
+Poisson means test,475,0.15959582296379984
+Poisson means test,476,0.25351104956409193
+Poisson means test,477,0.5461893016834904
+Poisson means test,478,0.6772909565969242
+Poisson means test,479,0.8949430025656955
+Poisson means test,480,0.05253819722959612
+Poisson means test,481,0.4720639847651729
+Poisson means test,482,0.28118708633934714
+Poisson means test,483,0.006959248664641484
+Poisson means test,484,0.42825735993267017
+Poisson means test,485,0.9021053287918445
+Poisson means test,486,0.6124910591971348
+Poisson means test,487,0.7739482483930236
+Poisson means test,488,0.36700811145049445
+Poisson means test,489,0.09877438076751884
+Poisson means test,490,0.5067545252440327
+Poisson means test,491,0.4021394936509177
+Poisson means test,492,0.8013167653592442
+Poisson means test,493,0.6990687834047822
+Poisson means test,494,0.6887562264224122
+Poisson means test,495,0.907944965890333
+Poisson means test,496,0.11031249477114845
+Poisson means test,497,0.5143074747520733
+Poisson means test,498,0.8858570604832015
+Poisson means test,499,0.23733267901352179
+Z-test,0,0.1256721930742155
+Z-test,1,0.26338847627309303
+Z-test,2,0.3385005738135973
+Z-test,3,0.4160747028125029
+Z-test,4,0.49418622463757433
+Z-test,5,0.6216354066241523
+Z-test,6,0.14401151176577634
+Z-test,7,0.8892782151616124
+Z-test,8,0.5283648931682874
+Z-test,9,0.6704396011168454
+Z-test,10,0.5740785242778175
+Z-test,11,0.6275785701934091
+Z-test,12,0.4604849261101056
+Z-test,13,0.4160747028125029
+Z-test,14,0.6058107944271905
+Z-test,15,1.0
+Z-test,16,0.76045471793392
+Z-test,17,0.7092928172144591
+Z-test,18,0.774536585646499
+Z-test,19,0.4863737766232169
+Z-test,20,0.014697421770023502
+Z-test,21,0.6578893166406362
+Z-test,22,0.08567343955231693
+Z-test,23,0.0826000152834678
+Z-test,24,0.2264945429126275
+Z-test,25,0.22371431082766724
+Z-test,26,0.7826126771345194
+Z-test,27,0.15260568767492602
+Z-test,28,0.5740785242778175
+Z-test,29,0.5667178898445697
+Z-test,30,0.2424796039333521
+Z-test,31,1.0
+Z-test,32,0.20133648528740078
+Z-test,33,0.7169578719775244
+Z-test,34,0.8948634686082549
+Z-test,35,0.7132061879646331
+Z-test,36,0.15998037041497803
+Z-test,37,0.7654477080390374
+Z-test,38,0.5877036681166047
+Z-test,39,0.1716392759872153
+Z-test,40,0.1357847343482657
+Z-test,41,0.1460349582534838
+Z-test,42,0.643726715438961
+Z-test,43,0.5016409255222805
+Z-test,44,0.7551172703779392
+Z-test,45,0.774536585646499
+Z-test,46,0.5667178898445697
+Z-test,47,0.05111308797105923
+Z-test,48,0.8774797585459791
+Z-test,49,1.0
+Z-test,50,0.067354334311145
+Z-test,51,0.3468718699341262
+Z-test,52,1.0
+Z-test,53,0.25188462046416205
+Z-test,54,0.38069927096238976
+Z-test,55,0.5740785242778175
+Z-test,56,0.3549298654749623
+Z-test,57,0.3129154801186087
+Z-test,58,0.3901541483019262
+Z-test,59,0.8948634686082549
+Z-test,60,0.2609663355770169
+Z-test,61,0.17528481024345954
+Z-test,62,0.2564142104993452
+Z-test,63,0.3707848655695143
+Z-test,64,0.01589052470944052
+Z-test,65,0.5087638144948391
+Z-test,66,0.11572634026910707
+Z-test,67,0.1899232261516377
+Z-test,68,0.8892782151616124
+Z-test,69,0.4239907614144879
+Z-test,70,0.611315006897853
+Z-test,71,0.5940257893064206
+Z-test,72,0.3385005738135973
+Z-test,73,0.611315006897853
+Z-test,74,0.8912417179239647
+Z-test,75,0.7786892948518374
+Z-test,76,0.8912417179239647
+Z-test,77,0.6762010255881132
+Z-test,78,1.0
+Z-test,79,0.3113087049251768
+Z-test,80,0.12736094323119934
+Z-test,81,0.8931004974872039
+Z-test,82,0.8996521358209251
+Z-test,83,0.38069927096238976
+Z-test,84,0.7863269242942157
+Z-test,85,0.4388753994705491
+Z-test,86,0.1899232261516377
+Z-test,87,0.8801515583681284
+Z-test,88,0.2943415318553899
+Z-test,89,0.5740785242778175
+Z-test,90,0.39918227766556036
+Z-test,91,0.5667178898445697
+Z-test,92,0.7898498259813618
+Z-test,93,0.14401151176577634
+Z-test,94,0.550728100882447
+Z-test,95,0.8965385193100612
+Z-test,96,0.7994193588060443
+Z-test,97,0.8912417179239647
+Z-test,98,0.7009326077749309
+Z-test,99,0.49418622463757433
+Z-test,100,0.2424796039333521
+Z-test,101,0.796382809744928
+Z-test,102,0.4160747028125029
+Z-test,103,0.8682032963149888
+Z-test,104,0.1677161845632078
+Z-test,105,0.5087638144948391
+Z-test,106,0.8849951375365789
+Z-test,107,1.0
+Z-test,108,0.11887924819857712
+Z-test,109,0.15906392984170925
+Z-test,110,0.7786892948518374
+Z-test,111,0.09176400414840834
+Z-test,112,0.1455548139000036
+Z-test,113,0.39918227766556036
+Z-test,114,0.550728100882447
+Z-test,115,0.12740418082881094
+Z-test,116,0.27017461794531883
+Z-test,117,0.7701315220815783
+Z-test,118,0.15260568767492602
+Z-test,119,0.26338847627309303
+Z-test,120,0.49418622463757433
+Z-test,121,0.8981326580352322
+Z-test,122,0.07032237602279745
+Z-test,123,0.41876651405492415
+Z-test,124,0.17528481024345954
+Z-test,125,0.5327602323133609
+Z-test,126,0.27017461794531883
+Z-test,127,0.3901541483019262
+Z-test,128,0.25188462046416205
+Z-test,129,0.3901541483019262
+Z-test,130,0.05479426758283539
+Z-test,131,0.0019364870536689805
+Z-test,132,0.7551172703779392
+Z-test,133,0.007252709965763458
+Z-test,134,0.5420158774906533
+Z-test,135,0.3468718699341262
+Z-test,136,0.5810636260309561
+Z-test,137,0.8912417179239647
+Z-test,138,0.7786892948518374
+Z-test,139,0.796382809744928
+Z-test,140,0.278216994991775
+Z-test,141,0.8774797585459791
+Z-test,142,0.019920661001526858
+Z-test,143,0.13935365562759447
+Z-test,144,0.2424796039333521
+Z-test,145,0.4160747028125029
+Z-test,146,0.09782407374084105
+Z-test,147,0.6216354066241523
+Z-test,148,0.550728100882447
+Z-test,149,0.1677161845632078
+Z-test,150,0.09176400414840834
+Z-test,151,0.2609663355770169
+Z-test,152,0.7863269242942157
+Z-test,153,0.7898498259813618
+Z-test,154,0.8849951375365789
+Z-test,155,0.6762010255881132
+Z-test,156,0.15207808079297525
+Z-test,157,0.7786892948518374
+Z-test,158,0.011158596612011261
+Z-test,159,0.5221055865920631
+Z-test,160,0.1357847343482657
+Z-test,161,0.5877036681166047
+Z-test,162,0.3385005738135973
+Z-test,163,0.7931971248767025
+Z-test,164,0.8892782151616124
+Z-test,165,0.7826126771345194
+Z-test,166,0.5155783041597777
+Z-test,167,0.6964582987813945
+Z-test,168,0.5877036681166047
+Z-test,169,0.6216354066241523
+Z-test,170,0.8948634686082549
+Z-test,171,0.7432370515591653
+Z-test,172,0.07032237602279745
+Z-test,173,0.3385005738135973
+Z-test,174,0.1460349582534838
+Z-test,175,0.9038157848016644
+Z-test,176,0.2184730895398962
+Z-test,177,0.8965385193100612
+Z-test,178,0.43158413100286963
+Z-test,179,0.7786892948518374
+Z-test,180,0.009378760087454011
+Z-test,181,0.5221055865920631
+Z-test,182,0.7931971248767025
+Z-test,183,0.21022090464248522
+Z-test,184,0.17528481024345954
+Z-test,185,0.13256469337222712
+Z-test,186,0.026818754122665676
+Z-test,187,0.6816596226737502
+Z-test,188,0.8746147271828668
+Z-test,189,0.6000542464526225
+Z-test,190,0.8023179430787831
+Z-test,191,0.019406818354718566
+Z-test,192,0.7786892948518374
+Z-test,193,0.6917669884927482
+Z-test,194,0.026818754122665676
+Z-test,195,0.7786892948518374
+Z-test,196,0.15998037041497803
+Z-test,197,0.40781343408252657
+Z-test,198,0.76045471793392
+Z-test,199,0.8023179430787831
+Z-test,200,0.6964582987813945
+Z-test,201,0.2564142104993452
+Z-test,202,0.43011322487170156
+Z-test,203,0.7092928172144591
+Z-test,204,0.6917669884927482
+Z-test,205,0.26338847627309303
+Z-test,206,0.5810636260309561
+Z-test,207,0.2609663355770169
+Z-test,208,0.5877036681166047
+Z-test,209,0.3549298654749623
+Z-test,210,0.5740785242778175
+Z-test,211,0.8892782151616124
+Z-test,212,1.0
+Z-test,213,0.46955711090583796
+Z-test,214,0.3773953633482793
+Z-test,215,0.6816596226737502
+Z-test,216,0.014999476212036835
+Z-test,217,0.5087638144948391
+Z-test,218,0.17478317445653047
+Z-test,219,0.4239907614144879
+Z-test,220,0.8912417179239647
+Z-test,221,0.2609663355770169
+Z-test,222,0.40781343408252657
+Z-test,223,0.8892782151616124
+Z-test,224,0.6165845484689556
+Z-test,225,0.2609663355770169
+Z-test,226,0.6704396011168454
+Z-test,227,0.04026720018183343
+Z-test,228,1.0
+Z-test,229,0.3236094211308127
+Z-test,230,0.3113087049251768
+Z-test,231,0.7052059672454938
+Z-test,232,0.24924483652555052
+Z-test,233,0.2697391267409277
+Z-test,234,0.7009326077749309
+Z-test,235,0.0972069073329212
+Z-test,236,0.2106639213209629
+Z-test,237,0.1357847343482657
+Z-test,238,0.1256721930742155
+Z-test,239,0.07032237602279745
+Z-test,240,0.1654085958330731
+Z-test,241,0.2697391267409277
+Z-test,242,0.8996521358209251
+Z-test,243,0.1969964581217496
+Z-test,244,0.2609663355770169
+Z-test,245,0.68684077488787
+Z-test,246,0.14427555602806372
+Z-test,247,0.5940257893064206
+Z-test,248,0.46955711090583796
+Z-test,249,0.5327602323133609
+Z-test,250,0.19299853385174237
+Z-test,251,0.40781343408252657
+Z-test,252,0.6816596226737502
+Z-test,253,0.062105835949131
+Z-test,254,0.007036396113965407
+Z-test,255,0.2564142104993452
+Z-test,256,0.07548090223883513
+Z-test,257,0.2264945429126275
+Z-test,258,0.550728100882447
+Z-test,259,0.7786892948518374
+Z-test,260,0.3468718699341262
+Z-test,261,0.26338847627309303
+Z-test,262,0.43158413100286963
+Z-test,263,0.3603747970384399
+Z-test,264,0.7786892948518374
+Z-test,265,0.4604849261101056
+Z-test,266,0.21022090464248522
+Z-test,267,0.32979688720354394
+Z-test,268,0.022342493406849722
+Z-test,269,0.2264945429126275
+Z-test,270,0.7898498259813618
+Z-test,271,0.043565574343449
+Z-test,272,0.7786892948518374
+Z-test,273,0.6762010255881132
+Z-test,274,0.6917669884927482
+Z-test,275,1.0
+Z-test,276,0.1460349582534838
+Z-test,277,0.2609663355770169
+Z-test,278,0.8981326580352322
+Z-test,279,0.14401151176577634
+Z-test,280,0.5740785242778175
+Z-test,281,0.30147848968075175
+Z-test,282,0.6165845484689556
+Z-test,283,0.7898498259813618
+Z-test,284,0.5327602323133609
+Z-test,285,0.36269230723724466
+Z-test,286,0.39918227766556036
+Z-test,287,0.4388753994705491
+Z-test,288,0.2184730895398962
+Z-test,289,0.8892782151616124
+Z-test,290,0.8023179430787831
+Z-test,291,0.3468718699341262
+Z-test,292,0.07088420576817211
+Z-test,293,0.01143073408486066
+Z-test,294,0.5401480160485699
+Z-test,295,0.000654178075618329
+Z-test,296,0.6000542464526225
+Z-test,297,0.34942919101629233
+Z-test,298,0.44588341952932886
+Z-test,299,1.0
+Z-test,300,0.4863737766232169
+Z-test,301,0.7826126771345194
+Z-test,302,0.7654477080390374
+Z-test,303,0.19299853385174237
+Z-test,304,0.06648661235070567
+Z-test,305,0.278216994991775
+Z-test,306,0.6816596226737502
+Z-test,307,0.76045471793392
+Z-test,308,0.01589052470944052
+Z-test,309,0.608938887524945
+Z-test,310,0.20173139581812505
+Z-test,311,0.43158413100286963
+Z-test,312,0.4863737766232169
+Z-test,313,0.3113087049251768
+Z-test,314,0.6216354066241523
+Z-test,315,0.8931004974872039
+Z-test,316,0.2184730895398962
+Z-test,317,0.17528481024345954
+Z-test,318,0.4239907614144879
+Z-test,319,0.5343737187959995
+Z-test,320,0.8871998693087758
+Z-test,321,0.3094415469063022
+Z-test,322,0.02706357293826229
+Z-test,323,0.5327602323133609
+Z-test,324,0.8981326580352322
+Z-test,325,0.47817477126437447
+Z-test,326,0.5667178898445697
+Z-test,327,0.26338847627309303
+Z-test,328,0.0022972896279409316
+Z-test,329,0.7863269242942157
+Z-test,330,0.8931004974872039
+Z-test,331,0.4863737766232169
+Z-test,332,0.6964582987813945
+Z-test,333,0.643726715438961
+Z-test,334,0.8871998693087758
+Z-test,335,0.5016409255222805
+Z-test,336,0.29122430286283085
+Z-test,337,1.0
+Z-test,338,0.88265078615827
+Z-test,339,1.0
+Z-test,340,0.5667178898445697
+Z-test,341,0.2697391267409277
+Z-test,342,0.3843655881655529
+Z-test,343,0.1460349582534838
+Z-test,344,0.20173139581812505
+Z-test,345,0.8849951375365789
+Z-test,346,0.2184730895398962
+Z-test,347,0.3549298654749623
+Z-test,348,0.8746147271828668
+Z-test,349,0.7169578719775244
+Z-test,350,0.2576393540054682
+Z-test,351,0.5155783041597777
+Z-test,352,0.10384330751699195
+Z-test,353,0.5087638144948391
+Z-test,354,1.0
+Z-test,355,0.04081346419856075
+Z-test,356,0.30201361256289627
+Z-test,357,0.4509180050542355
+Z-test,358,0.5221055865920631
+Z-test,359,0.4863737766232169
+Z-test,360,0.76045471793392
+Z-test,361,0.6578893166406362
+Z-test,362,1.0
+Z-test,363,0.8892782151616124
+Z-test,364,0.1677161845632078
+Z-test,365,0.4388753994705491
+Z-test,366,0.5877036681166047
+Z-test,367,0.6816596226737502
+Z-test,368,0.043828183129981324
+Z-test,369,0.20390901456216293
+Z-test,370,0.33790401910300527
+Z-test,371,1.0
+Z-test,372,0.36269230723724466
+Z-test,373,0.49418622463757433
+Z-test,374,0.21022090464248522
+Z-test,375,0.48286078869684756
+Z-test,376,0.8715321707068618
+Z-test,377,0.8948634686082549
+Z-test,378,0.28641346649690913
+Z-test,379,0.23273668273619952
+Z-test,380,0.7898498259813618
+Z-test,381,0.28051911257984663
+Z-test,382,0.6816596226737502
+Z-test,383,0.10114863666558356
+Z-test,384,0.49418622463757433
+Z-test,385,0.7701315220815783
+Z-test,386,0.39918227766556036
+Z-test,387,0.3773953633482793
+Z-test,388,0.15906392984170925
+Z-test,389,0.8912417179239647
+Z-test,390,0.2609663355770169
+Z-test,391,0.32979688720354394
+Z-test,392,0.1716392759872153
+Z-test,393,0.8023179430787831
+Z-test,394,1.0
+Z-test,395,0.88265078615827
+Z-test,396,0.36269230723724466
+Z-test,397,0.5667178898445697
+Z-test,398,0.6816596226737502
+Z-test,399,0.07032237602279745
+Z-test,400,0.7432370515591653
+Z-test,401,1.0
+Z-test,402,0.7994193588060443
+Z-test,403,0.2564142104993452
+Z-test,404,0.2609663355770169
+Z-test,405,0.7786892948518374
+Z-test,406,1.0
+Z-test,407,0.32074028272095845
+Z-test,408,0.5016409255222805
+Z-test,409,0.2697391267409277
+Z-test,410,0.18401712621934585
+Z-test,411,0.3773953633482793
+Z-test,412,0.44588341952932886
+Z-test,413,0.8849951375365789
+Z-test,414,0.4653740395377771
+Z-test,415,0.2184730895398962
+Z-test,416,0.7092928172144591
+Z-test,417,0.6816596226737502
+Z-test,418,0.5221055865920631
+Z-test,419,0.7931971248767025
+Z-test,420,0.09782407374084105
+Z-test,421,0.14427555602806372
+Z-test,422,0.3468718699341262
+Z-test,423,0.2609663355770169
+Z-test,424,1.0
+Z-test,425,0.6964582987813945
+Z-test,426,0.46955711090583796
+Z-test,427,0.06648661235070567
+Z-test,428,0.8912417179239647
+Z-test,429,0.7293800259883376
+Z-test,430,0.2943415318553899
+Z-test,431,0.4388753994705491
+Z-test,432,0.09094026047848287
+Z-test,433,0.1256721930742155
+Z-test,434,0.6643466010736174
+Z-test,435,0.5087638144948391
+Z-test,436,0.6917669884927482
+Z-test,437,0.7994193588060443
+Z-test,438,0.8746147271828668
+Z-test,439,0.9011025483556877
+Z-test,440,0.030107987490662298
+Z-test,441,0.7654477080390374
+Z-test,442,0.7493941849625704
+Z-test,443,0.8981326580352322
+Z-test,444,0.02729121982402104
+Z-test,445,0.47723371394391056
+Z-test,446,0.3236094211308127
+Z-test,447,0.36269230723724466
+Z-test,448,0.0795647345931905
+Z-test,449,0.3603747970384399
+Z-test,450,0.31663658961808927
+Z-test,451,0.8981326580352322
+Z-test,452,1.0
+Z-test,453,0.37017569307484555
+Z-test,454,0.5087638144948391
+Z-test,455,0.6816596226737502
+Z-test,456,0.5810636260309561
+Z-test,457,0.8981326580352322
+Z-test,458,0.12740418082881094
+Z-test,459,0.8871998693087758
+Z-test,460,0.19010156647565235
+Z-test,461,0.6704396011168454
+Z-test,462,0.5087638144948391
+Z-test,463,0.08064318763176169
+Z-test,464,0.7863269242942157
+Z-test,465,0.11160064825378763
+Z-test,466,0.2697391267409277
+Z-test,467,0.8965385193100612
+Z-test,468,0.7898498259813618
+Z-test,469,0.013937139196179043
+Z-test,470,0.8871998693087758
+Z-test,471,0.7931971248767025
+Z-test,472,0.7826126771345194
+Z-test,473,0.611315006897853
+Z-test,474,0.15998037041497803
+Z-test,475,0.15207808079297525
+Z-test,476,0.24187323709442943
+Z-test,477,0.5327602323133609
+Z-test,478,0.6643466010736174
+Z-test,479,0.88265078615827
+Z-test,480,0.04916100906016901
+Z-test,481,0.4591174831145398
+Z-test,482,0.26933421619132447
+Z-test,483,0.006319216031552883
+Z-test,484,0.4160747028125029
+Z-test,485,0.8912417179239647
+Z-test,486,0.6000542464526225
+Z-test,487,0.76045471793392
+Z-test,488,0.3549298654749623
+Z-test,489,0.09176400414840834
+Z-test,490,0.49418622463757433
+Z-test,491,0.3901541483019262
+Z-test,492,0.7898498259813618
+Z-test,493,0.68684077488787
+Z-test,494,0.6762010255881132
+Z-test,495,0.8981326580352322
+Z-test,496,0.10443838078702652
+Z-test,497,0.5016409255222805
+Z-test,498,0.8715321707068618
+Z-test,499,0.2264945429126275
+Chi-square test,0,0.1256721930742155
+Chi-square test,1,0.26338847627308976
+Chi-square test,2,0.3385005738135945
+Chi-square test,3,0.4160747028125029
+Chi-square test,4,0.4941862246375739
+Chi-square test,5,0.6216354066241522
+Chi-square test,6,0.14401151176577215
+Chi-square test,7,0.8892782151616125
+Chi-square test,8,0.5283648931682878
+Chi-square test,9,0.6704396011168454
+Chi-square test,10,0.5740785242778175
+Chi-square test,11,0.6275785701934093
+Chi-square test,12,0.4604849261101055
+Chi-square test,13,0.4160747028125029
+Chi-square test,14,0.6058107944271907
+Chi-square test,15,1.0
+Chi-square test,16,0.7604547179339199
+Chi-square test,17,0.7092928172144594
+Chi-square test,18,0.7745365856464987
+Chi-square test,19,0.486373776623217
+Chi-square test,20,0.014697421770023533
+Chi-square test,21,0.6578893166406364
+Chi-square test,22,0.08567343955231711
+Chi-square test,23,0.0826000152834679
+Chi-square test,24,0.2264945429126239
+Chi-square test,25,0.22371431082766371
+Chi-square test,26,0.7826126771345198
+Chi-square test,27,0.1526056876749219
+Chi-square test,28,0.5740785242778175
+Chi-square test,29,0.5667178898445695
+Chi-square test,30,0.2424796039333487
+Chi-square test,31,1.0
+Chi-square test,32,0.20133648528739698
+Chi-square test,33,0.716957871977524
+Chi-square test,34,0.8948634686082546
+Chi-square test,35,0.7132061879646326
+Chi-square test,36,0.15998037041497365
+Chi-square test,37,0.7654477080390376
+Chi-square test,38,0.5877036681166046
+Chi-square test,39,0.17163927598721132
+Chi-square test,40,0.13578473434826643
+Chi-square test,41,0.1460349582534798
+Chi-square test,42,0.643726715438961
+Chi-square test,43,0.5016409255222807
+Chi-square test,44,0.755117270377939
+Chi-square test,45,0.7745365856464987
+Chi-square test,46,0.5667178898445695
+Chi-square test,47,0.05111308797105914
+Chi-square test,48,0.8774797585459789
+Chi-square test,49,1.0
+Chi-square test,50,0.0673543343111452
+Chi-square test,51,0.3468718699341261
+Chi-square test,52,1.0
+Chi-square test,53,0.2518846204641586
+Chi-square test,54,0.38069927096238965
+Chi-square test,55,0.5740785242778175
+Chi-square test,56,0.3549298654749623
+Chi-square test,57,0.312915480118606
+Chi-square test,58,0.3901541483019262
+Chi-square test,59,0.8948634686082546
+Chi-square test,60,0.2609663355770137
+Chi-square test,61,0.17528481024345582
+Chi-square test,62,0.25641421049934177
+Chi-square test,63,0.37078486556951407
+Chi-square test,64,0.015890524709440513
+Chi-square test,65,0.508763814494839
+Chi-square test,66,0.11572634026910707
+Chi-square test,67,0.18992322615163398
+Chi-square test,68,0.8892782151616125
+Chi-square test,69,0.423990761414488
+Chi-square test,70,0.6113150068978535
+Chi-square test,71,0.5940257893064205
+Chi-square test,72,0.3385005738135945
+Chi-square test,73,0.6113150068978535
+Chi-square test,74,0.8912417179239647
+Chi-square test,75,0.7786892948518371
+Chi-square test,76,0.8912417179239647
+Chi-square test,77,0.6762010255881132
+Chi-square test,78,1.0
+Chi-square test,79,0.3113087049251738
+Chi-square test,80,0.1273609432311988
+Chi-square test,81,0.8931004974872039
+Chi-square test,82,0.8996521358209251
+Chi-square test,83,0.38069927096238965
+Chi-square test,84,0.7863269242942158
+Chi-square test,85,0.4388753994705492
+Chi-square test,86,0.18992322615163398
+Chi-square test,87,0.8801515583681285
+Chi-square test,88,0.29434153185538703
+Chi-square test,89,0.5740785242778175
+Chi-square test,90,0.39918227766556047
+Chi-square test,91,0.5667178898445695
+Chi-square test,92,0.7898498259813616
+Chi-square test,93,0.14401151176577215
+Chi-square test,94,0.5507281008824471
+Chi-square test,95,0.8965385193100613
+Chi-square test,96,0.7994193588060445
+Chi-square test,97,0.8912417179239647
+Chi-square test,98,0.7009326077749313
+Chi-square test,99,0.4941862246375739
+Chi-square test,100,0.2424796039333487
+Chi-square test,101,0.7963828097449281
+Chi-square test,102,0.4160747028125029
+Chi-square test,103,0.8682032963149888
+Chi-square test,104,0.16771618456320375
+Chi-square test,105,0.508763814494839
+Chi-square test,106,0.884995137536579
+Chi-square test,107,1.0
+Chi-square test,108,0.1188792481985777
+Chi-square test,109,0.15906392984170514
+Chi-square test,110,0.7786892948518371
+Chi-square test,111,0.09176400414840821
+Chi-square test,112,0.14555481389999933
+Chi-square test,113,0.39918227766556047
+Chi-square test,114,0.5507281008824471
+Chi-square test,115,0.12740418082881
+Chi-square test,116,0.2701746179453157
+Chi-square test,117,0.7701315220815785
+Chi-square test,118,0.1526056876749219
+Chi-square test,119,0.26338847627308976
+Chi-square test,120,0.4941862246375739
+Chi-square test,121,0.8981326580352322
+Chi-square test,122,0.07032237602279762
+Chi-square test,123,0.41876651405492404
+Chi-square test,124,0.17528481024345582
+Chi-square test,125,0.532760232313361
+Chi-square test,126,0.2701746179453157
+Chi-square test,127,0.3901541483019262
+Chi-square test,128,0.2518846204641586
+Chi-square test,129,0.3901541483019262
+Chi-square test,130,0.054794267582835336
+Chi-square test,131,0.0019364870536689863
+Chi-square test,132,0.755117270377939
+Chi-square test,133,0.007252709965763466
+Chi-square test,134,0.5420158774906532
+Chi-square test,135,0.3468718699341261
+Chi-square test,136,0.5810636260309558
+Chi-square test,137,0.8912417179239647
+Chi-square test,138,0.7786892948518371
+Chi-square test,139,0.7963828097449281
+Chi-square test,140,0.2782169949917719
+Chi-square test,141,0.8774797585459789
+Chi-square test,142,0.019920661001526785
+Chi-square test,143,0.1393536556275904
+Chi-square test,144,0.2424796039333487
+Chi-square test,145,0.4160747028125029
+Chi-square test,146,0.09782407374084136
+Chi-square test,147,0.6216354066241522
+Chi-square test,148,0.5507281008824471
+Chi-square test,149,0.16771618456320375
+Chi-square test,150,0.09176400414840821
+Chi-square test,151,0.2609663355770137
+Chi-square test,152,0.7863269242942158
+Chi-square test,153,0.7898498259813616
+Chi-square test,154,0.884995137536579
+Chi-square test,155,0.6762010255881132
+Chi-square test,156,0.1520780807929711
+Chi-square test,157,0.7786892948518371
+Chi-square test,158,0.011158596612011252
+Chi-square test,159,0.522105586592063
+Chi-square test,160,0.13578473434826643
+Chi-square test,161,0.5877036681166046
+Chi-square test,162,0.3385005738135945
+Chi-square test,163,0.7931971248767024
+Chi-square test,164,0.8892782151616125
+Chi-square test,165,0.7826126771345198
+Chi-square test,166,0.5155783041597777
+Chi-square test,167,0.6964582987813944
+Chi-square test,168,0.5877036681166046
+Chi-square test,169,0.6216354066241522
+Chi-square test,170,0.8948634686082546
+Chi-square test,171,0.7432370515591655
+Chi-square test,172,0.07032237602279762
+Chi-square test,173,0.3385005738135945
+Chi-square test,174,0.1460349582534798
+Chi-square test,175,0.9038157848016637
+Chi-square test,176,0.21847308953989258
+Chi-square test,177,0.8965385193100613
+Chi-square test,178,0.43158413100286974
+Chi-square test,179,0.7786892948518371
+Chi-square test,180,0.009378760087454013
+Chi-square test,181,0.522105586592063
+Chi-square test,182,0.7931971248767024
+Chi-square test,183,0.21022090464248191
+Chi-square test,184,0.17528481024345582
+Chi-square test,185,0.13256469337222704
+Chi-square test,186,0.026818754122665708
+Chi-square test,187,0.6816596226737504
+Chi-square test,188,0.8746147271828669
+Chi-square test,189,0.6000542464526224
+Chi-square test,190,0.8023179430787832
+Chi-square test,191,0.019406818354718552
+Chi-square test,192,0.7786892948518371
+Chi-square test,193,0.691766988492748
+Chi-square test,194,0.026818754122665708
+Chi-square test,195,0.7786892948518371
+Chi-square test,196,0.15998037041497365
+Chi-square test,197,0.4078134340825267
+Chi-square test,198,0.7604547179339199
+Chi-square test,199,0.8023179430787832
+Chi-square test,200,0.6964582987813944
+Chi-square test,201,0.25641421049934177
+Chi-square test,202,0.43011322487170145
+Chi-square test,203,0.7092928172144594
+Chi-square test,204,0.691766988492748
+Chi-square test,205,0.26338847627308976
+Chi-square test,206,0.5810636260309558
+Chi-square test,207,0.2609663355770137
+Chi-square test,208,0.5877036681166046
+Chi-square test,209,0.3549298654749623
+Chi-square test,210,0.5740785242778175
+Chi-square test,211,0.8892782151616125
+Chi-square test,212,1.0
+Chi-square test,213,0.46955711090583796
+Chi-square test,214,0.37739536334827906
+Chi-square test,215,0.6816596226737504
+Chi-square test,216,0.014999476212036903
+Chi-square test,217,0.508763814494839
+Chi-square test,218,0.17478317445652664
+Chi-square test,219,0.423990761414488
+Chi-square test,220,0.8912417179239647
+Chi-square test,221,0.2609663355770137
+Chi-square test,222,0.4078134340825267
+Chi-square test,223,0.8892782151616125
+Chi-square test,224,0.6165845484689562
+Chi-square test,225,0.2609663355770137
+Chi-square test,226,0.6704396011168454
+Chi-square test,227,0.0402672001818334
+Chi-square test,228,1.0
+Chi-square test,229,0.3236094211308099
+Chi-square test,230,0.3113087049251738
+Chi-square test,231,0.705205967245494
+Chi-square test,232,0.24924483652554705
+Chi-square test,233,0.26973912674092454
+Chi-square test,234,0.7009326077749313
+Chi-square test,235,0.0972069073329211
+Chi-square test,236,0.21066392132095932
+Chi-square test,237,0.13578473434826643
+Chi-square test,238,0.1256721930742155
+Chi-square test,239,0.07032237602279762
+Chi-square test,240,0.16540859583306905
+Chi-square test,241,0.26973912674092454
+Chi-square test,242,0.8996521358209251
+Chi-square test,243,0.19699645812174585
+Chi-square test,244,0.2609663355770137
+Chi-square test,245,0.6868407748878698
+Chi-square test,246,0.14427555602805964
+Chi-square test,247,0.5940257893064205
+Chi-square test,248,0.46955711090583796
+Chi-square test,249,0.532760232313361
+Chi-square test,250,0.19299853385173862
+Chi-square test,251,0.4078134340825267
+Chi-square test,252,0.6816596226737504
+Chi-square test,253,0.062105835949130876
+Chi-square test,254,0.007036396113965426
+Chi-square test,255,0.25641421049934177
+Chi-square test,256,0.0754809022388354
+Chi-square test,257,0.2264945429126239
+Chi-square test,258,0.5507281008824471
+Chi-square test,259,0.7786892948518371
+Chi-square test,260,0.3468718699341261
+Chi-square test,261,0.26338847627308976
+Chi-square test,262,0.43158413100286974
+Chi-square test,263,0.3603747970384401
+Chi-square test,264,0.7786892948518371
+Chi-square test,265,0.4604849261101055
+Chi-square test,266,0.21022090464248191
+Chi-square test,267,0.32979688720354117
+Chi-square test,268,0.022342493406849802
+Chi-square test,269,0.2264945429126239
+Chi-square test,270,0.7898498259813616
+Chi-square test,271,0.04356557434344875
+Chi-square test,272,0.7786892948518371
+Chi-square test,273,0.6762010255881132
+Chi-square test,274,0.691766988492748
+Chi-square test,275,1.0
+Chi-square test,276,0.1460349582534798
+Chi-square test,277,0.2609663355770137
+Chi-square test,278,0.8981326580352322
+Chi-square test,279,0.14401151176577215
+Chi-square test,280,0.5740785242778175
+Chi-square test,281,0.30147848968074864
+Chi-square test,282,0.6165845484689562
+Chi-square test,283,0.7898498259813616
+Chi-square test,284,0.532760232313361
+Chi-square test,285,0.36269230723724477
+Chi-square test,286,0.39918227766556047
+Chi-square test,287,0.4388753994705492
+Chi-square test,288,0.21847308953989258
+Chi-square test,289,0.8892782151616125
+Chi-square test,290,0.8023179430787832
+Chi-square test,291,0.3468718699341261
+Chi-square test,292,0.07088420576817196
+Chi-square test,293,0.011430734084860695
+Chi-square test,294,0.5401480160485695
+Chi-square test,295,0.0006541780756183275
+Chi-square test,296,0.6000542464526224
+Chi-square test,297,0.34942919101629244
+Chi-square test,298,0.44588341952932886
+Chi-square test,299,1.0
+Chi-square test,300,0.486373776623217
+Chi-square test,301,0.7826126771345198
+Chi-square test,302,0.7654477080390376
+Chi-square test,303,0.19299853385173862
+Chi-square test,304,0.0664866123507059
+Chi-square test,305,0.2782169949917719
+Chi-square test,306,0.6816596226737504
+Chi-square test,307,0.7604547179339199
+Chi-square test,308,0.015890524709440513
+Chi-square test,309,0.6089388875249448
+Chi-square test,310,0.20173139581812113
+Chi-square test,311,0.43158413100286974
+Chi-square test,312,0.486373776623217
+Chi-square test,313,0.3113087049251738
+Chi-square test,314,0.6216354066241522
+Chi-square test,315,0.8931004974872039
+Chi-square test,316,0.21847308953989258
+Chi-square test,317,0.17528481024345582
+Chi-square test,318,0.423990761414488
+Chi-square test,319,0.5343737187959992
+Chi-square test,320,0.8871998693087755
+Chi-square test,321,0.3094415469062992
+Chi-square test,322,0.027063572938262292
+Chi-square test,323,0.532760232313361
+Chi-square test,324,0.8981326580352322
+Chi-square test,325,0.47817477126437447
+Chi-square test,326,0.5667178898445695
+Chi-square test,327,0.26338847627308976
+Chi-square test,328,0.0022972896279409285
+Chi-square test,329,0.7863269242942158
+Chi-square test,330,0.8931004974872039
+Chi-square test,331,0.486373776623217
+Chi-square test,332,0.6964582987813944
+Chi-square test,333,0.643726715438961
+Chi-square test,334,0.8871998693087755
+Chi-square test,335,0.5016409255222807
+Chi-square test,336,0.29122430286282786
+Chi-square test,337,1.0
+Chi-square test,338,0.8826507861582701
+Chi-square test,339,1.0
+Chi-square test,340,0.5667178898445695
+Chi-square test,341,0.26973912674092454
+Chi-square test,342,0.3843655881655529
+Chi-square test,343,0.1460349582534798
+Chi-square test,344,0.20173139581812113
+Chi-square test,345,0.884995137536579
+Chi-square test,346,0.21847308953989258
+Chi-square test,347,0.3549298654749623
+Chi-square test,348,0.8746147271828669
+Chi-square test,349,0.716957871977524
+Chi-square test,350,0.257639354005465
+Chi-square test,351,0.5155783041597777
+Chi-square test,352,0.10384330751699218
+Chi-square test,353,0.508763814494839
+Chi-square test,354,1.0
+Chi-square test,355,0.040813464198560856
+Chi-square test,356,0.30201361256289355
+Chi-square test,357,0.4509180050542356
+Chi-square test,358,0.522105586592063
+Chi-square test,359,0.486373776623217
+Chi-square test,360,0.7604547179339199
+Chi-square test,361,0.6578893166406364
+Chi-square test,362,1.0
+Chi-square test,363,0.8892782151616125
+Chi-square test,364,0.16771618456320375
+Chi-square test,365,0.4388753994705492
+Chi-square test,366,0.5877036681166046
+Chi-square test,367,0.6816596226737504
+Chi-square test,368,0.043828183129981074
+Chi-square test,369,0.20390901456215899
+Chi-square test,370,0.3379040191030024
+Chi-square test,371,1.0
+Chi-square test,372,0.36269230723724477
+Chi-square test,373,0.4941862246375739
+Chi-square test,374,0.21022090464248191
+Chi-square test,375,0.48286078869684745
+Chi-square test,376,0.871532170706862
+Chi-square test,377,0.8948634686082546
+Chi-square test,378,0.286413466496906
+Chi-square test,379,0.23273668273619613
+Chi-square test,380,0.7898498259813616
+Chi-square test,381,0.28051911257984374
+Chi-square test,382,0.6816596226737504
+Chi-square test,383,0.101148636665584
+Chi-square test,384,0.4941862246375739
+Chi-square test,385,0.7701315220815785
+Chi-square test,386,0.39918227766556047
+Chi-square test,387,0.37739536334827906
+Chi-square test,388,0.15906392984170514
+Chi-square test,389,0.8912417179239647
+Chi-square test,390,0.2609663355770137
+Chi-square test,391,0.32979688720354117
+Chi-square test,392,0.17163927598721132
+Chi-square test,393,0.8023179430787832
+Chi-square test,394,1.0
+Chi-square test,395,0.8826507861582701
+Chi-square test,396,0.36269230723724477
+Chi-square test,397,0.5667178898445695
+Chi-square test,398,0.6816596226737504
+Chi-square test,399,0.07032237602279762
+Chi-square test,400,0.7432370515591655
+Chi-square test,401,1.0
+Chi-square test,402,0.7994193588060445
+Chi-square test,403,0.25641421049934177
+Chi-square test,404,0.2609663355770137
+Chi-square test,405,0.7786892948518371
+Chi-square test,406,1.0
+Chi-square test,407,0.32074028272095567
+Chi-square test,408,0.5016409255222807
+Chi-square test,409,0.26973912674092454
+Chi-square test,410,0.18401712621934216
+Chi-square test,411,0.37739536334827906
+Chi-square test,412,0.44588341952932886
+Chi-square test,413,0.884995137536579
+Chi-square test,414,0.465374039537777
+Chi-square test,415,0.21847308953989258
+Chi-square test,416,0.7092928172144594
+Chi-square test,417,0.6816596226737504
+Chi-square test,418,0.522105586592063
+Chi-square test,419,0.7931971248767024
+Chi-square test,420,0.09782407374084136
+Chi-square test,421,0.14427555602805964
+Chi-square test,422,0.3468718699341261
+Chi-square test,423,0.2609663355770137
+Chi-square test,424,1.0
+Chi-square test,425,0.6964582987813944
+Chi-square test,426,0.46955711090583796
+Chi-square test,427,0.0664866123507059
+Chi-square test,428,0.8912417179239647
+Chi-square test,429,0.7293800259883374
+Chi-square test,430,0.29434153185538703
+Chi-square test,431,0.4388753994705492
+Chi-square test,432,0.09094026047848262
+Chi-square test,433,0.1256721930742155
+Chi-square test,434,0.6643466010736174
+Chi-square test,435,0.508763814494839
+Chi-square test,436,0.691766988492748
+Chi-square test,437,0.7994193588060445
+Chi-square test,438,0.8746147271828669
+Chi-square test,439,0.9011025483556878
+Chi-square test,440,0.030107987490662312
+Chi-square test,441,0.7654477080390376
+Chi-square test,442,0.7493941849625706
+Chi-square test,443,0.8981326580352322
+Chi-square test,444,0.027291219824021027
+Chi-square test,445,0.47723371394391034
+Chi-square test,446,0.3236094211308099
+Chi-square test,447,0.36269230723724477
+Chi-square test,448,0.07956473459319083
+Chi-square test,449,0.3603747970384401
+Chi-square test,450,0.3166365896180862
+Chi-square test,451,0.8981326580352322
+Chi-square test,452,1.0
+Chi-square test,453,0.37017569307484577
+Chi-square test,454,0.508763814494839
+Chi-square test,455,0.6816596226737504
+Chi-square test,456,0.5810636260309558
+Chi-square test,457,0.8981326580352322
+Chi-square test,458,0.12740418082881
+Chi-square test,459,0.8871998693087755
+Chi-square test,460,0.19010156647564852
+Chi-square test,461,0.6704396011168454
+Chi-square test,462,0.508763814494839
+Chi-square test,463,0.08064318763176194
+Chi-square test,464,0.7863269242942158
+Chi-square test,465,0.11160064825378703
+Chi-square test,466,0.26973912674092454
+Chi-square test,467,0.8965385193100613
+Chi-square test,468,0.7898498259813616
+Chi-square test,469,0.013937139196179052
+Chi-square test,470,0.8871998693087755
+Chi-square test,471,0.7931971248767024
+Chi-square test,472,0.7826126771345198
+Chi-square test,473,0.6113150068978535
+Chi-square test,474,0.15998037041497365
+Chi-square test,475,0.1520780807929711
+Chi-square test,476,0.2418732370944263
+Chi-square test,477,0.532760232313361
+Chi-square test,478,0.6643466010736174
+Chi-square test,479,0.8826507861582701
+Chi-square test,480,0.04916100906016887
+Chi-square test,481,0.4591174831145396
+Chi-square test,482,0.2693342161913213
+Chi-square test,483,0.006319216031552897
+Chi-square test,484,0.4160747028125029
+Chi-square test,485,0.8912417179239647
+Chi-square test,486,0.6000542464526224
+Chi-square test,487,0.7604547179339199
+Chi-square test,488,0.3549298654749623
+Chi-square test,489,0.09176400414840821
+Chi-square test,490,0.4941862246375739
+Chi-square test,491,0.3901541483019262
+Chi-square test,492,0.7898498259813616
+Chi-square test,493,0.6868407748878698
+Chi-square test,494,0.6762010255881132
+Chi-square test,495,0.8981326580352322
+Chi-square test,496,0.10443838078702665
+Chi-square test,497,0.5016409255222807
+Chi-square test,498,0.871532170706862
+Chi-square test,499,0.2264945429126239

@@ -188,7 +188,7 @@ class PValueSimulation(object):
                 test_name_list = list(filter(lambda test_name: test_name in p_value_data.index.get_level_values("name").unique(),
                                              default_test_name_list))
             else:
-                test_name_list = default_test_name_list
+                test_name_list = []
 
             if len(test_name_list) > 0:
                 fig = go.Figure()

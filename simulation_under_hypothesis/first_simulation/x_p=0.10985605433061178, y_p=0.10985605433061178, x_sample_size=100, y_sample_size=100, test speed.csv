@@ -1,0 +1,8 @@
+name,speed
+Barnard’s exact test,30.088266372680664
+Boschloo’s exact test,75.23840618133545
+Fisher’s exact test,1.5071320533752441
+G-test,0.3803858757019043
+Poisson means test,0.7395381927490234
+Z-test,0.1717362403869629
+Chi-square test,0.2831540107727051
